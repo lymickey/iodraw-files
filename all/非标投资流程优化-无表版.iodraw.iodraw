@@ -595,10 +595,10 @@
         <mxCell id="filqbKaBqrHCWVGV7bnZ-2" value="项目立项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="filqbKaBqrHCWVGV7bnZ-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-6" value="ESG认定" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="filqbKaBqrHCWVGV7bnZ-9" value="项目立项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-9" value="风险审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
