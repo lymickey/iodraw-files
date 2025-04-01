@@ -604,7 +604,7 @@
         <mxCell id="filqbKaBqrHCWVGV7bnZ-9" value="风险审查" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="filqbKaBqrHCWVGV7bnZ-11" value="ESG认定" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-11" value="项目是否在" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
