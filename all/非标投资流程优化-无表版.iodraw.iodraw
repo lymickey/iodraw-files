@@ -586,8 +586,14 @@
         <mxCell id="filqbKaBqrHCWVGV7bnZ-1" value="项目营销" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="filqbKaBqrHCWVGV7bnZ-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="filqbKaBqrHCWVGV7bnZ-2" target="filqbKaBqrHCWVGV7bnZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-2" value="项目立项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="filqbKaBqrHCWVGV7bnZ-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
