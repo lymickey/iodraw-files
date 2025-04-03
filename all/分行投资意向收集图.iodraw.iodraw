@@ -60,7 +60,7 @@
             <mxRectangle width="123" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-108" value="产品分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-15">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-108" value="产品分类（反显）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-15">
           <mxGeometry x="123" width="123" height="80" as="geometry">
             <mxRectangle width="123" height="80" as="alternateBounds" />
           </mxGeometry>
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-51" value="产品分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="98" y="300" width="122" height="83" as="geometry">
+          <mxGeometry x="98" y="298.5" width="122" height="83" as="geometry">
             <mxRectangle width="122" height="83" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
