@@ -247,7 +247,7 @@
             <mxRectangle width="122" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-69" value="份额（数量）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-65">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-69" value="份额（数量），但是需要反显为金额=份额*产品单位净值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-65">
           <mxGeometry x="732" width="120" height="80" as="geometry">
             <mxRectangle width="120" height="80" as="alternateBounds" />
           </mxGeometry>
