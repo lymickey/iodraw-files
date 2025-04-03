@@ -4,24 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="282" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-10" value="新建：上报收集意向信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-9">
-          <mxGeometry x="-0.04" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-177" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-9">
-          <mxGeometry x="-0.1069" y="8" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6" target="OIs_S9wObw0BT3L5qMrn-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -317,6 +299,12 @@
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-155" value="当前日期小于&lt;div&gt;意向日期&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="140" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-178" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.446;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="250" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
