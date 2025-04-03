@@ -420,6 +420,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-237" value="每一行都能展开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-223">
+          <mxGeometry y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-224" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-548" y="1460" width="790" height="230" as="geometry" />
         </mxCell>
@@ -467,7 +472,7 @@
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-235" value="机构A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-235" value="机构C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
           <mxGeometry x="263" width="264" height="67" as="geometry">
             <mxRectangle width="264" height="67" as="alternateBounds" />
           </mxGeometry>
