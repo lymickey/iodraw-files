@@ -306,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-181" value="本周产品投资意向统计表&#xa;权限：1.我司销售部门和总行XX部可以查看所有汇总情况&#xa;2.投资经理只能看到他自己的产品" style="shape=table;startSize=70;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#666666;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-620" y="720" width="1168" height="720" as="geometry" />
+          <mxGeometry x="-457" y="830" width="1168" height="720" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-182" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-181">
           <mxGeometry y="70" width="1168" height="130" as="geometry" />
@@ -470,11 +470,11 @@
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-223" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-245" y="1450" as="sourcePoint" />
-            <mxPoint x="-245" y="1570" as="targetPoint" />
+            <mxPoint x="-82" y="1560" as="sourcePoint" />
+            <mxPoint x="-82" y="1680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-245" y="1490" />
-              <mxPoint x="-245" y="1520" />
+              <mxPoint x="-82" y="1600" />
+              <mxPoint x="-82" y="1630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -484,7 +484,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-224" value="认购和申购展开效果" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#b85450;fontSize=16;fontStyle=1;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-633" y="1580" width="1053" height="230" as="geometry" />
+          <mxGeometry x="-470" y="1690" width="1053" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-225" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-224">
           <mxGeometry y="30" width="1053" height="67" as="geometry" />
@@ -553,6 +553,12 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-240" value="XX元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
           <mxGeometry x="790" width="263" height="67" as="geometry">
             <mxRectangle width="263" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-258" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="790" as="sourcePoint" />
+            <mxPoint x="200" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
