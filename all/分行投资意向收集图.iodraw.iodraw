@@ -443,7 +443,7 @@
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-256" value="到期：" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-251">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-256" value="产品到期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-251">
           <mxGeometry x="934" width="234" height="130" as="geometry">
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
@@ -470,11 +470,11 @@
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-223" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-202" y="1580" as="sourcePoint" />
-            <mxPoint x="-202" y="1700" as="targetPoint" />
+            <mxPoint x="-245" y="1450" as="sourcePoint" />
+            <mxPoint x="-245" y="1570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-202" y="1620" />
-              <mxPoint x="-202" y="1650" />
+              <mxPoint x="-245" y="1490" />
+              <mxPoint x="-245" y="1520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -484,7 +484,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-224" value="认购和申购展开效果" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#b85450;fontSize=16;fontStyle=1;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-590" y="1710" width="1053" height="230" as="geometry" />
+          <mxGeometry x="-633" y="1580" width="1053" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-225" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-224">
           <mxGeometry y="30" width="1053" height="67" as="geometry" />
