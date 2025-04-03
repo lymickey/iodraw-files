@@ -121,7 +121,7 @@
             <mxRectangle width="122" height="87" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-19">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-174" value="9xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-19">
           <mxGeometry x="488" width="122" height="87" as="geometry">
             <mxRectangle width="122" height="87" as="alternateBounds" />
           </mxGeometry>
@@ -300,10 +300,15 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-155" value="当前日期小于&lt;div&gt;意向日期&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="140" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-178" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.446;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-178" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.446;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.316;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6" target="OIs_S9wObw0BT3L5qMrn-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="250" as="sourcePoint" />
             <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-179" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;新建：上报收集意向信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-178">
+          <mxGeometry x="-0.2017" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
