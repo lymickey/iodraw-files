@@ -26,7 +26,7 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-2" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-4" value="（数据中台）产品信息&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-4" value="（数据中台）产品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-500" y="340" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-5" value="华夏理财销售人员（直销）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -47,7 +47,7 @@
           <mxGeometry x="-370" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-14" value="机构投资意向" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#666666;fontSize=16;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="270" width="850" height="280" as="geometry" />
+          <mxGeometry x="-145" y="270" width="850" height="280" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-14">
           <mxGeometry y="30" width="850" height="83" as="geometry" />
