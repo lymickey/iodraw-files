@@ -305,7 +305,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-181" value="本周产品投资意向统计表&#xa;权限：我司销售部门和总行XX部可以查看所有汇总情况" style="shape=table;startSize=50;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-181" value="本周产品投资意向统计表&#xa;权限：我司销售部门和总行XX部可以查看所有汇总情况" style="shape=table;startSize=50;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#d6b656;fontSize=16;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-620" y="740" width="934" height="570" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-182" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-181">
