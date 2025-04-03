@@ -357,7 +357,7 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-190" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-181">
           <mxGeometry y="310" width="934" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-191" value="产品A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-190">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-191" value="产品B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-190">
           <mxGeometry width="234" height="130" as="geometry">
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
@@ -415,9 +415,9 @@
             <mxPoint x="-160" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-242" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-221">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-242" value="实时搜索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-221">
           <mxGeometry x="-0.1455" y="9" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-223" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
