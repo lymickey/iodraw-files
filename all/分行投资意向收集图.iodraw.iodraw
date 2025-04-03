@@ -29,7 +29,7 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-4" target="OIs_S9wObw0BT3L5qMrn-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-4" value="（数据中台）产品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-4" value="（数据中台系统）产品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-690" y="305" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-5" value="华夏理财销售人员（直销）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
