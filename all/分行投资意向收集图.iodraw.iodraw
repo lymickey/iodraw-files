@@ -281,6 +281,11 @@
             <mxPoint x="-160" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-241" value="每日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-82">
+          <mxGeometry x="-0.1455" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-115" value="机构B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="219" y="490" width="122" height="80" as="geometry">
             <mxRectangle width="122" height="80" as="alternateBounds" />
@@ -410,6 +415,11 @@
             <mxPoint x="-160" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-242" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-221">
+          <mxGeometry x="-0.1455" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-223" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="1330" as="sourcePoint" />
@@ -464,7 +474,7 @@
             <mxRectangle width="264" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-232" value="认购" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-229">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-232" value="申购" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-229">
           <mxGeometry x="527" width="263" height="66" as="geometry">
             <mxRectangle width="263" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -487,7 +497,7 @@
             <mxRectangle width="264" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-236" value="认购" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-236" value="申购" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
           <mxGeometry x="527" width="263" height="67" as="geometry">
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
