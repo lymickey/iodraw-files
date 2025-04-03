@@ -42,8 +42,13 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-11" target="OIs_S9wObw0BT3L5qMrn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-13" value="机构名称&lt;div&gt;+&lt;/div&gt;&lt;div&gt;统一社会信用代码&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-12">
+          <mxGeometry x="-0.22" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-11" value="意向投资机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-310" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
