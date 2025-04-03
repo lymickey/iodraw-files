@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-0" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-0" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-1" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -17,10 +17,10 @@
           <mxGeometry x="-60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-4" value="产品信息：&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-5" value="华夏理财销售人员（直销）&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
