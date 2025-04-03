@@ -339,7 +339,7 @@
             <mxRectangle width="232" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-189" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-186">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-189" value="申购总额：XX元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-186">
           <mxGeometry x="466" width="234" height="130" as="geometry">
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
@@ -362,7 +362,7 @@
             <mxRectangle width="232" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-193" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-190">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-193" value="认购总额：XX元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-190">
           <mxGeometry x="466" width="234" height="130" as="geometry">
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
