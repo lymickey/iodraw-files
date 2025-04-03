@@ -344,7 +344,7 @@
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-244" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-186">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-244" value="甲" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-186">
           <mxGeometry x="234" width="234" height="130" as="geometry">
             <mxRectangle width="234" height="130" as="alternateBounds" />
           </mxGeometry>
