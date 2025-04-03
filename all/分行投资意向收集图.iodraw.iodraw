@@ -499,7 +499,7 @@
             <mxRectangle width="264" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-228" value="申购" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-225">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-228" value="申购/认购/赎回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-225">
           <mxGeometry x="527" width="263" height="67" as="geometry">
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
