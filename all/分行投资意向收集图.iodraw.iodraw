@@ -26,7 +26,7 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-1" value="分行B&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-2" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-2" value="分行C&lt;div&gt;推荐人乙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-4" target="OIs_S9wObw0BT3L5qMrn-80">
