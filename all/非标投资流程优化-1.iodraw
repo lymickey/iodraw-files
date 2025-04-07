@@ -9,6 +9,9 @@
             <mxPoint x="745" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jehJiWNeDR5SBJZb_5Ir-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sjjtQbrn53Gdv-oZNpFK-1" source="sjjtQbrn53Gdv-oZNpFK-2" target="jehJiWNeDR5SBJZb_5Ir-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjjtQbrn53Gdv-oZNpFK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="sjjtQbrn53Gdv-oZNpFK-1" vertex="1">
           <mxGeometry x="575" y="258" width="340" height="80" as="geometry" />
         </mxCell>
@@ -195,6 +198,9 @@
         </mxCell>
         <mxCell id="sjjtQbrn53Gdv-oZNpFK-11" value="交易对手&lt;br&gt;账号信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="sjjtQbrn53Gdv-oZNpFK-6" vertex="1">
           <mxGeometry x="240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jehJiWNeDR5SBJZb_5Ir-0" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="sjjtQbrn53Gdv-oZNpFK-1">
+          <mxGeometry x="735" y="448" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
