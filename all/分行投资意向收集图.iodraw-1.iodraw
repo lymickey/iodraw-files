@@ -454,7 +454,7 @@
             <mxPoint x="930" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0JncTDrA6z509scGkch-0" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-194">
+        <mxCell id="j0JncTDrA6z509scGkch-0" value="在意向日期之前可以修改的字段：" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIs_S9wObw0BT3L5qMrn-194">
           <mxGeometry x="-0.3328" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
