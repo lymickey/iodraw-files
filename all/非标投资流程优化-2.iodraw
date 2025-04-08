@@ -694,10 +694,10 @@
           <mxGeometry x="985" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-21" value="资讯数据：融资人机构信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-22" value="资讯数据：交易对手机构信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;size=0.6666666666666666;" vertex="1" parent="1">
           <mxGeometry x="755" y="300" width="30" height="120" as="geometry" />
