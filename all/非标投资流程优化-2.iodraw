@@ -677,24 +677,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-6" value="调用API推送新增和修改的&lt;br style=&quot;font-size: 14px;&quot;&gt;资产台账和还款计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-7" target="wIgPvxbM3n9VP7yzlFS6-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-6" value="调用API推送新增和修改的&lt;br style=&quot;font-size: 14px;&quot;&gt;资产台账和还款计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-7" value="非标系统：成立申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-10" target="wIgPvxbM3n9VP7yzlFS6-26">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="270" as="targetPoint" />
+            <mxPoint x="620" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-9" value="按约定格式推送消息给B45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wIgPvxbM3n9VP7yzlFS6-8">
           <mxGeometry x="-0.2182" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-10" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-11" value="&lt;br&gt;（重新）生成指令" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-12" target="wIgPvxbM3n9VP7yzlFS6-14">
           <mxGeometry x="-0.6" relative="1" as="geometry">
