@@ -644,12 +644,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.117;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745" y="418" as="targetPoint" />
-            <mxPoint x="630.0999999999999" y="328" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="330" as="sourcePoint" />
@@ -665,16 +659,6 @@
               <mxPoint x="699" y="733" />
             </Array>
             <mxPoint x="699.0999999999999" y="329" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.117;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="403" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="630" y="393" />
-              <mxPoint x="290" y="393" />
-            </Array>
-            <mxPoint x="630.0999999999999" y="328" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-6" value="调用&lt;span style=&quot;font-size: 11px;&quot;&gt;DATA Hub API&lt;/span&gt;推送新增和修改的&lt;br style=&quot;font-size: 14px;&quot;&gt;资产台账和还款计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-7" target="wIgPvxbM3n9VP7yzlFS6-41">
@@ -728,12 +712,6 @@
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;size=0.6666666666666666;" vertex="1" parent="1">
           <mxGeometry x="190" y="253" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="323" as="targetPoint" />
-            <mxPoint x="595" y="308" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-25" value="非标系统：(部分和一次性）提前还款、延后还款计划新增和变更、分期还款计划的修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-140" width="150" height="100" as="geometry" />
@@ -802,15 +780,6 @@
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-41" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryDx=0;entryDy=0;exitX=0.9;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865" y="329" as="sourcePoint" />
-            <mxPoint x="530" y="443" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="865" y="443" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-50" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="433" width="20" height="20" as="geometry" />
