@@ -753,6 +753,10 @@
           <mxGeometry x="-0.2251" relative="1" as="geometry">
             <mxPoint x="862" y="257" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="862" y="270" />
+              <mxPoint x="860" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-41" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
