@@ -677,7 +677,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-6" value="调用API推送新增和修改的&lt;br style=&quot;font-size: 14px;&quot;&gt;资产台账和还款计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-7" target="wIgPvxbM3n9VP7yzlFS6-41">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-6" value="调用&lt;span style=&quot;font-size: 11px;&quot;&gt;DATA Hub&amp;nbsp;&lt;/span&gt;推送新增和修改的&lt;br style=&quot;font-size: 14px;&quot;&gt;资产台账和还款计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-7" target="wIgPvxbM3n9VP7yzlFS6-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="100" as="targetPoint" />
             <Array as="points">
