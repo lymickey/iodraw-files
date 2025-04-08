@@ -648,7 +648,7 @@
           <mxGeometry x="340" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="510" height="460" as="geometry" />
+          <mxGeometry x="600" y="300" width="510" height="440" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-180" width="790" height="230" as="geometry" />
@@ -770,12 +770,6 @@
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-59" value="财汇数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="380" as="sourcePoint" />
-            <mxPoint x="710" y="360" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
