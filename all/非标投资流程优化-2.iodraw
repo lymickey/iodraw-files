@@ -724,7 +724,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-31" value="COP划款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-35" value="调用DATA Hub API推送还款计划&lt;br&gt;（新增和修改）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-25" target="wIgPvxbM3n9VP7yzlFS6-41">
           <mxGeometry x="0.137" relative="1" as="geometry">
