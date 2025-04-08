@@ -723,7 +723,7 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-30" value="划款成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-31" target="wIgPvxbM3n9VP7yzlFS6-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-31" value="COP划款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-31" value="COP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-35" value="调用DATA Hub API推送还款计划&lt;br&gt;（新增和修改）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-25" target="wIgPvxbM3n9VP7yzlFS6-41">
@@ -779,7 +779,7 @@
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-66" value="每日供数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wIgPvxbM3n9VP7yzlFS6-65">
           <mxGeometry x="-0.2356" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
