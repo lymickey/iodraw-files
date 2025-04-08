@@ -749,15 +749,14 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-38" value="B45账号信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="975" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-40" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;按约定格式推送消息给B45&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-41" target="wIgPvxbM3n9VP7yzlFS6-57">
-          <mxGeometry x="-0.2251" relative="1" as="geometry">
-            <mxPoint x="862" y="257" as="targetPoint" />
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-41" target="wIgPvxbM3n9VP7yzlFS6-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wIgPvxbM3n9VP7yzlFS6-63">
+          <mxGeometry x="-0.1803" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="862" y="270" />
-              <mxPoint x="860" y="270" />
-              <mxPoint x="860" y="280" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-41" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
