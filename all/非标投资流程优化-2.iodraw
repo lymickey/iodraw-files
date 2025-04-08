@@ -767,7 +767,7 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-55" value="交易系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-59" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-59" value="财汇数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
