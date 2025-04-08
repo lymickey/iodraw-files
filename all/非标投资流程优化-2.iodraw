@@ -736,9 +736,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-50" target="wIgPvxbM3n9VP7yzlFS6-38">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1225" y="400" as="sourcePoint" />
+            <mxPoint x="1095" y="490" as="sourcePoint" />
             <mxPoint x="925" y="500" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -757,9 +757,6 @@
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-41" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-50" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="480" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-54" value="非标业务管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-180" width="110" height="30" as="geometry" />
