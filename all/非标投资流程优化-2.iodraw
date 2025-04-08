@@ -773,8 +773,8 @@
             <mxPoint x="4" y="-47" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-74" value="其它审批节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="741.71" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-74" value="交易(批量）执行&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731.71" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
