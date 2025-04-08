@@ -759,8 +759,8 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-54" value="非标业务管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-55" value="交易系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-55" value="交易系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-59" value="财汇数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="60" height="30" as="geometry" />
