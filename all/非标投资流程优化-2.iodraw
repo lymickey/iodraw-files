@@ -771,10 +771,15 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-59" value="财汇数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wIgPvxbM3n9VP7yzlFS6-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="400" as="sourcePoint" />
             <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-66" value="每日供数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wIgPvxbM3n9VP7yzlFS6-65">
+          <mxGeometry x="-0.2356" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
