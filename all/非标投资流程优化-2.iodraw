@@ -735,7 +735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-25" value="非标系统：(部分和一次性）提前还款、延后还款计划新增和变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-140" width="135" height="80" as="geometry" />
+          <mxGeometry x="1000" y="-140" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-26" value="非标资产台账" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="258" width="110" height="20" as="geometry" />
@@ -749,7 +749,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIgPvxbM3n9VP7yzlFS6-28" value="非标系统：非标资产台账变更&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;投放意向、利率信息和交易对手账号和非标基础信息)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-28" value="非标系统：非标资产台账变更&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;投放意向、利率参数和交易对手账号和非标基础信息)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="-140" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-29" value="划款成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-31" target="wIgPvxbM3n9VP7yzlFS6-19">
