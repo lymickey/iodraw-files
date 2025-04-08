@@ -743,6 +743,11 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-38" value="B45账号信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wIgPvxbM3n9VP7yzlFS6-41" target="wIgPvxbM3n9VP7yzlFS6-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-41" value="数据HUB(系统）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="100" width="120" height="60" as="geometry" />
         </mxCell>
