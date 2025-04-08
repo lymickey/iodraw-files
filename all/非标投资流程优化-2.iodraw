@@ -761,6 +761,9 @@
         <mxCell id="wIgPvxbM3n9VP7yzlFS6-54" value="非标业务管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-180" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wIgPvxbM3n9VP7yzlFS6-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
