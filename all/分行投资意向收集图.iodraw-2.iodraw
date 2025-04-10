@@ -227,7 +227,7 @@
             <mxRectangle width="120" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-65" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-172" value="机构C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-65" vertex="1">
           <mxGeometry x="366" width="122" height="94" as="geometry">
             <mxRectangle width="122" height="94" as="alternateBounds" />
           </mxGeometry>
@@ -579,6 +579,11 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-259" value="实时汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OIs_S9wObw0BT3L5qMrn-258" vertex="1" connectable="0">
           <mxGeometry x="-0.306" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvH-xf6plVs0ntclh_sz-6" value="9xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="341" y="598" width="122" height="92" as="geometry">
+            <mxRectangle width="122" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
