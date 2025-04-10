@@ -509,7 +509,7 @@
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-225">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-3" value="预报日期1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-225">
           <mxGeometry x="790" width="263" height="67" as="geometry">
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
@@ -537,7 +537,7 @@
             <mxRectangle width="263" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-229">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-4" value="预报日期1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-229">
           <mxGeometry x="790" width="263" height="66" as="geometry">
             <mxRectangle width="263" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -565,7 +565,7 @@
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-5" value="预报日期1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="OIs_S9wObw0BT3L5qMrn-233">
           <mxGeometry x="790" width="263" height="67" as="geometry">
             <mxRectangle width="263" height="67" as="alternateBounds" />
           </mxGeometry>
