@@ -116,7 +116,7 @@
             <mxRectangle width="123" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-21" value="内部编码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-19" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-21" value="内部产品代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-19" vertex="1">
           <mxGeometry x="246" width="120" height="100" as="geometry">
             <mxRectangle width="120" height="100" as="alternateBounds" />
           </mxGeometry>
@@ -169,7 +169,7 @@
             <mxRectangle width="123" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-25" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3DpartialRectangle%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3Bconnectable%3D0%3BstrokeColor%3Dinherit%3Boverflow%3Dhidden%3BfillColor%3Dnone%3Btop%3D0%3Bleft%3D0%3Bbottom%3D0%3Bright%3D0%3BpointerEvents%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2297%22%20y%3D%22403%22%20width%3D%22122%22%20height%3D%2287%22%20as%3D%22geometry%22%3E%3CmxRectangle%20width%3D%22122%22%20height%3D%2287%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-25" value="内部产品代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
           <mxGeometry x="246" width="120" height="92" as="geometry">
             <mxRectangle width="120" height="92" as="alternateBounds" />
           </mxGeometry>
@@ -222,7 +222,7 @@
             <mxRectangle width="123" height="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-65" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-67" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;内部产品代码&lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-65" vertex="1">
           <mxGeometry x="246" width="120" height="94" as="geometry">
             <mxRectangle width="120" height="94" as="alternateBounds" />
           </mxGeometry>
@@ -265,11 +265,6 @@
         <mxCell id="OIs_S9wObw0BT3L5qMrn-51" value="产品代码（反显或者选择）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="97" y="318.5" width="122" height="83" as="geometry">
             <mxRectangle width="122" height="83" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="97" y="403" width="122" height="87" as="geometry">
-            <mxRectangle width="122" height="87" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-80" value="产品数据（诉求）：&lt;div style=&quot;font-size: 13px;&quot;&gt;1. 子产品和普通产品&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;2. 产品信息：名字、代码、到期日（封闭式产品）&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3. 母行代销产品和直销产品&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;4. 封闭产品：每次资产&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;5. 投资经理&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=13;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
