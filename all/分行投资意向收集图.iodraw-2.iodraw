@@ -179,7 +179,7 @@
             <mxRectangle width="122" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-175" value="9xxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
           <mxGeometry x="488" width="122" height="92" as="geometry">
             <mxRectangle width="122" height="92" as="alternateBounds" />
           </mxGeometry>
@@ -199,7 +199,7 @@
             <mxRectangle width="122" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIs_S9wObw0BT3L5qMrn-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
+        <mxCell id="OIs_S9wObw0BT3L5qMrn-39" value="企业微信登录人员" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="OIs_S9wObw0BT3L5qMrn-23" vertex="1">
           <mxGeometry x="974" width="120" height="92" as="geometry">
             <mxRectangle width="120" height="92" as="alternateBounds" />
           </mxGeometry>
