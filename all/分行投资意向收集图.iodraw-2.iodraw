@@ -606,7 +606,7 @@
             <mxPoint x="330" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-12" value="销售人员部门总经理？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-12" value="&lt;b&gt;销售人员部门总经理？？？&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="120" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
