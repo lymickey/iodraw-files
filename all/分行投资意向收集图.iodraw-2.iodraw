@@ -297,7 +297,7 @@
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-179" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;新建：上报收集意向信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OIs_S9wObw0BT3L5qMrn-178" vertex="1" connectable="0">
           <mxGeometry x="-0.2017" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-141" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OIs_S9wObw0BT3L5qMrn-181" value="本周产品投资意向统计表&#xa;权限：1.我司销售部门和总行XX部可以查看所有汇总情况&#xa;2.投资经理只能看到他自己的产品" style="shape=table;startSize=70;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#666666;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
