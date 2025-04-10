@@ -584,15 +584,20 @@
             <mxPoint x="10" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvH-xf6plVs0ntclh_sz-8">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-13" value="预报投资意向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvH-xf6plVs0ntclh_sz-8">
           <mxGeometry x="-0.48" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PvH-xf6plVs0ntclh_sz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.565;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-5" target="OIs_S9wObw0BT3L5qMrn-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="130" as="sourcePoint" />
             <mxPoint x="570" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PvH-xf6plVs0ntclh_sz-14" value="预报投资意向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PvH-xf6plVs0ntclh_sz-10">
+          <mxGeometry x="-0.4931" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PvH-xf6plVs0ntclh_sz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.197;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PvH-xf6plVs0ntclh_sz-7" target="OIs_S9wObw0BT3L5qMrn-14">
