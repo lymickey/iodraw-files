@@ -655,7 +655,7 @@
           <mxGeometry x="-80" y="220" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="u7zJ6LQp3Gi0DBE7QQ1u-3" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="280" width="160" height="240" as="geometry" />
+          <mxGeometry x="-760" y="500" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="u7zJ6LQp3Gi0DBE7QQ1u-4" value="产品数据（诉求）：&lt;div style=&quot;font-size: 13px;&quot;&gt;1. 母产品和普通产品&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;2. 已成立或者正在募集期的产品&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3. 产品信息：名字、代码、到期日（封闭式产品）、单位净值、&lt;span style=&quot;background-color: initial;&quot;&gt;投资经理&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-420" y="420" width="190" height="200" as="geometry" />
