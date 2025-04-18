@@ -696,7 +696,7 @@
             <mxPoint x="200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r12hrsxjNs4MPIWW_-f-5">
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-6" value="上报意向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r12hrsxjNs4MPIWW_-f-5">
           <mxGeometry x="-0.0162" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
