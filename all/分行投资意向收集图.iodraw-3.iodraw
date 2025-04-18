@@ -649,7 +649,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-25" value="预报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-26" value="已确定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="330" width="120" height="60" as="geometry" />
