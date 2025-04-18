@@ -652,10 +652,16 @@
           <mxGeometry x="-50" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-20" width="40" height="60" as="geometry" />
+          <mxGeometry x="70" y="31.439999999999998" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-18" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="50" width="80" height="30" as="geometry" />
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-18" value="分行B&lt;div&gt;推荐人丙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="101.44" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-19" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="25" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-20" value="分行C&lt;div&gt;推荐人乙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="95" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
