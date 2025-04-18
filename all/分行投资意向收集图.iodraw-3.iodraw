@@ -684,8 +684,8 @@
             <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-1" value="机构投资者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-10" width="30" height="60" as="geometry" />
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-1" value="销售人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
