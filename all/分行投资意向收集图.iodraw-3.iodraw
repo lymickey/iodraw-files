@@ -625,7 +625,7 @@
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MhlVjYcP9hPLdF4-O4Pn-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-250" y="-5" as="sourcePoint" />
+            <mxPoint x="-270" y="35" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-250" y="35" />
             </Array>
@@ -650,6 +650,12 @@
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-16" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-20" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-18" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
