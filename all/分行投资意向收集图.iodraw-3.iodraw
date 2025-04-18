@@ -707,16 +707,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="550" width="470" height="260" as="geometry" />
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-9" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋; font-size: 15px;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;：产品、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-70" y="630" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-9" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋; font-size: 15px;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;：产品、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="630" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5r12hrsxjNs4MPIWW_-f-4" target="5r12hrsxjNs4MPIWW_-f-8">
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5r12hrsxjNs4MPIWW_-f-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="490" as="sourcePoint" />
-            <mxPoint x="320" y="440" as="targetPoint" />
+            <mxPoint x="152.98999999999978" y="547.9200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-12" value="确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r12hrsxjNs4MPIWW_-f-11">
