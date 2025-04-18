@@ -606,7 +606,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5r12hrsxjNs4MPIWW_-f-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="540" width="475" height="310" as="geometry" />
+          <mxGeometry x="-75" y="540" width="475" height="330" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="490" height="170" as="geometry" />
