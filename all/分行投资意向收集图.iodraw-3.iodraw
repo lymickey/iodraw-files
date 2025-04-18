@@ -611,8 +611,8 @@
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="490" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-7" value="投资收集人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-65" width="160" height="30" as="geometry" />
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-7" value="投资意向预报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MhlVjYcP9hPLdF4-O4Pn-2">
           <mxGeometry relative="1" as="geometry">
@@ -652,7 +652,7 @@
           <mxGeometry x="270" y="35" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="180" width="460" height="220" as="geometry" />
+          <mxGeometry x="-75" y="180" width="460" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
