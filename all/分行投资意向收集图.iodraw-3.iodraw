@@ -605,6 +605,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="540" width="475" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="490" height="170" as="geometry" />
         </mxCell>
@@ -731,9 +734,6 @@
         </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-14" value="产品申赎展开明细：&lt;div&gt;产品、机构、&lt;span style=&quot;background-color: initial;&quot;&gt;预报日期、投资意向、金额、到期(个人和机构）份额&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="735" width="210" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
