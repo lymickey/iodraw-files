@@ -606,7 +606,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5r12hrsxjNs4MPIWW_-f-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="540" width="475" height="330" as="geometry" />
+          <mxGeometry x="-75" y="560" width="475" height="310" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="490" height="170" as="geometry" />
@@ -713,7 +713,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5r12hrsxjNs4MPIWW_-f-4">
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5r12hrsxjNs4MPIWW_-f-4" target="5r12hrsxjNs4MPIWW_-f-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="490" as="sourcePoint" />
             <mxPoint x="152.98999999999978" y="547.9200000000001" as="targetPoint" />
@@ -747,7 +747,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-20" value="I助手应用之间，同步已确定预报意向：&lt;div&gt;1. 应用1主动推送&lt;/div&gt;&lt;div&gt;2. 应用2查询后获取&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;align=left;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="640" width="160" height="100" as="geometry" />
+          <mxGeometry x="580" y="640" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
