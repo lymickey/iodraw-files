@@ -605,8 +605,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhlVjYcP9hPLdF4-O4Pn-2" target="MhlVjYcP9hPLdF4-O4Pn-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhlVjYcP9hPLdF4-O4Pn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="15" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="490" height="170" as="geometry" />
@@ -626,9 +628,6 @@
           <mxGeometry x="-0.22" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-11" value="只能删除/修改&lt;div&gt;当前日期小于&lt;div&gt;意向日期&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-15" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-13" value="机构投资者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-20" width="30" height="60" as="geometry" />
