@@ -749,14 +749,8 @@
         <mxCell id="5r12hrsxjNs4MPIWW_-f-20" value="I助手应用之间，同步已确定预报意向：&lt;div&gt;1. 应用1主动推送&lt;/div&gt;&lt;div&gt;2. 应用2查询后获取&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="640" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-180" y="460" as="sourcePoint" />
-            <mxPoint x="-130" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="320" width="20" height="120" as="geometry" />
+          <mxGeometry x="-210" y="320" width="40" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
