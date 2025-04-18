@@ -642,6 +642,12 @@
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-13" value="机构投资者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-50" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-30" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-16" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
