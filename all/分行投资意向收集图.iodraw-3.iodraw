@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2514" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -596,6 +596,54 @@
           <mxGeometry x="-0.4931" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pB2tI-t4lbc45uArMJ1V" name="第 2 页">
+    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhlVjYcP9hPLdF4-O4Pn-2" target="MhlVjYcP9hPLdF4-O4Pn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-70" width="740" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-3" value="分行A&lt;div&gt;推荐人甲&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-4" value="分行B&lt;div&gt;推荐人丙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-5" value="分行C&lt;div&gt;推荐人乙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-6" value="华夏理财销售人员（直销）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-7" value="投资收集人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-65" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MhlVjYcP9hPLdF4-O4Pn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-9" value="机构名称&lt;div&gt;+&lt;/div&gt;&lt;div&gt;统一社会信用代码&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhlVjYcP9hPLdF4-O4Pn-8">
+          <mxGeometry x="-0.22" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-11" value="只能删除/修改&lt;div&gt;当前日期小于&lt;div&gt;意向日期&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-12" value="预报投资意向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="543.5018224434439" y="81.44169181743882" as="geometry" />
+        </mxCell>
+        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-50" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
