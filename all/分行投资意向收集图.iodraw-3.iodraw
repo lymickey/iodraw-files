@@ -648,6 +648,9 @@
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-20" value="我司销售人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="35" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhlVjYcP9hPLdF4-O4Pn-25" target="5r12hrsxjNs4MPIWW_-f-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-25" value="应用1&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;vertical-align: middle; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预报信息：产品、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;投资机构名称、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;投资意向分类、&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;预报&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 16px;&quot;&gt;意向&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;金额（份额）、上报人员、投资日期&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-80" y="220" width="460" height="110" as="geometry" />
         </mxCell>
@@ -736,7 +739,10 @@
           <mxGeometry x="50" y="735" width="210" height="85" as="geometry" />
         </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-19" value="应用2： 看板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="-75" y="540" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-20" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;align=left;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
