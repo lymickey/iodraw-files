@@ -575,13 +575,10 @@
             <mxRectangle width="122" height="92" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-7" value="华夏销售人员确认" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="110" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6" target="PvH-xf6plVs0ntclh_sz-7" edge="1">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OIs_S9wObw0BT3L5qMrn-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="170" as="sourcePoint" />
-            <mxPoint x="10" y="120" as="targetPoint" />
+            <mxPoint x="95" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PvH-xf6plVs0ntclh_sz-13" value="预报投资意向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PvH-xf6plVs0ntclh_sz-8" vertex="1" connectable="0">
@@ -600,14 +597,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.197;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PvH-xf6plVs0ntclh_sz-7" target="OIs_S9wObw0BT3L5qMrn-14" edge="1">
+        <mxCell id="PvH-xf6plVs0ntclh_sz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.197;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OIs_S9wObw0BT3L5qMrn-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="95" y="170" as="sourcePoint" />
             <mxPoint x="330" y="170" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PvH-xf6plVs0ntclh_sz-12" value="&lt;b&gt;销售人员部门总经理？？？&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="475" y="120" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
