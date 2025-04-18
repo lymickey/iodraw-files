@@ -721,6 +721,11 @@
         <mxCell id="5r12hrsxjNs4MPIWW_-f-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5r12hrsxjNs4MPIWW_-f-13" target="5r12hrsxjNs4MPIWW_-f-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-16" value="展开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5r12hrsxjNs4MPIWW_-f-15">
+          <mxGeometry x="-0.2842" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5r12hrsxjNs4MPIWW_-f-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial; font-family: 仿宋;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;产品、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="45" y="550" width="220" height="90" as="geometry" />
         </mxCell>
