@@ -611,12 +611,6 @@
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-70" width="740" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-4" value="分行B&lt;div&gt;推荐人丙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-35" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MhlVjYcP9hPLdF4-O4Pn-5" value="分行C&lt;div&gt;推荐人乙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-35" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-6" value="华夏理财销售人员（直销）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-35" width="120" height="60" as="geometry" />
         </mxCell>
@@ -652,16 +646,16 @@
           <mxGeometry x="-50" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="31.439999999999998" width="40" height="60" as="geometry" />
+          <mxGeometry x="120" y="-35" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-18" value="分行B&lt;div&gt;推荐人丙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="101.44" width="80" height="30" as="geometry" />
+          <mxGeometry x="100" y="35" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-19" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="25" width="40" height="60" as="geometry" />
+          <mxGeometry x="290" y="-35" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MhlVjYcP9hPLdF4-O4Pn-20" value="分行C&lt;div&gt;推荐人乙&lt;/div&gt;&lt;div&gt;（母行代销）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="95" width="80" height="30" as="geometry" />
+          <mxGeometry x="270" y="35" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
