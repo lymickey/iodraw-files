@@ -705,8 +705,8 @@
         <mxCell id="5r12hrsxjNs4MPIWW_-f-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-80" y="550" width="460" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="5r12hrsxjNs4MPIWW_-f-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="630" width="60" height="30" as="geometry" />
+        <mxCell id="5r12hrsxjNs4MPIWW_-f-9" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-family: 仿宋; font-size: 10.5pt;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;：产品、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="630" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
