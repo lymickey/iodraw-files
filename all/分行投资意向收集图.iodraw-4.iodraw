@@ -119,6 +119,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lUazRCD42ugrnLo6GYGf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-1" target="lUazRCD42ugrnLo6GYGf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-75" y="590" width="475" height="260" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-27" value="上报应用：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-110" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lUazRCD42ugrnLo6GYGf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="475" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
