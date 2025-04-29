@@ -60,11 +60,11 @@
         <mxCell id="w62210OV9jtoe8EUsqev-45" value="应用1：预报新意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="270" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QMM1y_bMubE2NtnNsXN3-1" value="批量确认" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="285" y="120" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-1" value="应用2：主动获取已确认投资意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="150" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRIRp4RSkCMHAAPW-OC7-2" value="应用1：预报新意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="270" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="w62210OV9jtoe8EUsqev-20" target="w62210OV9jtoe8EUsqev-24">
           <mxGeometry relative="1" as="geometry" />
