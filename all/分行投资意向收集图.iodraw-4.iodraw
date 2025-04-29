@@ -120,8 +120,8 @@
         <mxCell id="wyJs4mEoIsKsncESxBx2-2" value="应用2：&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xnfFNmd2kKSZTGpTJY0U-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="xnfFNmd2kKSZTGpTJY0U-2" value="确定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="108" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
