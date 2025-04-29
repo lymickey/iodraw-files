@@ -230,12 +230,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="208.82" as="sourcePoint" />
             <mxPoint x="60" y="208.82" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="20" y="240" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RAj8-qcHBsvVLgzJl_J-4" value="每次晚上主动获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-RAj8-qcHBsvVLgzJl_J-1">
+        <mxCell id="-RAj8-qcHBsvVLgzJl_J-4" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-RAj8-qcHBsvVLgzJl_J-1">
           <mxGeometry x="0.3435" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
