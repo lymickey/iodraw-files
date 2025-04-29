@@ -172,7 +172,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial; font-family: 仿宋;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;产品信息、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial; font-family: 仿宋;&quot;&gt;客户申赎预报统计日历&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;产品信息、投资经理、&lt;/span&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;投资意向统计、到期时总份额(数据中台取）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="45" y="620" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-20" value="产品申赎展开明细：&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;产品信息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、投资机构、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预报日期、投资意向、投资金额、到期时的个人份额、到日期时的机构份额(直接从数据中台获取获取）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
