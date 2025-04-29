@@ -106,7 +106,7 @@
             <mxPoint x="610" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QMM1y_bMubE2NtnNsXN3-2" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;批量确认&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-59">
+        <mxCell id="QMM1y_bMubE2NtnNsXN3-2" value="（批量）确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-59">
           <mxGeometry x="-0.2741" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
