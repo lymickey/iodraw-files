@@ -35,8 +35,14 @@
         <mxCell id="w62210OV9jtoe8EUsqev-1" value="（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看：日期区间内所有产品的预报统计情况" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="w62210OV9jtoe8EUsqev-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="w62210OV9jtoe8EUsqev-4" target="w62210OV9jtoe8EUsqev-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看：日期区间内所有产品的预报统计情况" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-7" value="" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
