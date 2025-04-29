@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-57" value="应用2：选择时间区间查看管理产品的预报统计结果和明细结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="w62210OV9jtoe8EUsqev-44">
-          <mxGeometry x="65" y="320" width="100" height="60" as="geometry" />
+          <mxGeometry x="70" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w62210OV9jtoe8EUsqev-44" source="xRIRp4RSkCMHAAPW-OC7-3" target="w62210OV9jtoe8EUsqev-57">
           <mxGeometry relative="1" as="geometry" />
