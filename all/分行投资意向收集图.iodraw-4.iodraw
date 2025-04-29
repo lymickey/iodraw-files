@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUazRCD42ugrnLo6GYGf-6" value="&lt;br style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;已确认且没有过预报日期的投资意向&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="lUazRCD42ugrnLo6GYGf-6" value="&lt;br style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;已确认且没有过预报日期的全量投资意向&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="55" y="350" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
