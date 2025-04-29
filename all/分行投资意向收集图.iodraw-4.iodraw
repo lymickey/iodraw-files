@@ -42,7 +42,7 @@
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="w62210OV9jtoe8EUsqev-45" target="xRIRp4RSkCMHAAPW-OC7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-45" value="收集应用：预报新意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="w62210OV9jtoe8EUsqev-45" value="收集应用：预报新意向（可修改和删除）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="270" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="xRIRp4RSkCMHAAPW-OC7-1" target="w62210OV9jtoe8EUsqev-4">
