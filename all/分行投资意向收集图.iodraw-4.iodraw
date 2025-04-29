@@ -151,10 +151,10 @@
             <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-3" target="G6c4nY7Gtxy5bMa6vGOd-1">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="500" as="sourcePoint" />
-            <mxPoint x="152.98999999999978" y="547.9200000000001" as="targetPoint" />
+            <mxPoint x="150" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-16" value="确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
