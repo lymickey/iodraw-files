@@ -13,13 +13,16 @@
         <mxCell id="77e6c97f196da883-8" value="上报预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="65" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="w62210OV9jtoe8EUsqev-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="430" height="730" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="w62210OV9jtoe8EUsqev-1" target="w62210OV9jtoe8EUsqev-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-5">
+        <mxCell id="w62210OV9jtoe8EUsqev-6" value="系统统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-5">
           <mxGeometry x="-0.3542" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -29,9 +32,6 @@
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="205" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="w62210OV9jtoe8EUsqev-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
