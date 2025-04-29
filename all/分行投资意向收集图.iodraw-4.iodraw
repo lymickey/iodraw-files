@@ -176,6 +176,11 @@
             <mxPoint x="689.9200000000001" y="-28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lUazRCD42ugrnLo6GYGf-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
+          <mxGeometry x="-0.4333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-19" target="G6c4nY7Gtxy5bMa6vGOd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -205,11 +210,6 @@
               <mxPoint x="150" y="560" />
               <mxPoint x="150" y="560" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lUazRCD42ugrnLo6GYGf-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lUazRCD42ugrnLo6GYGf-9">
-          <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lUazRCD42ugrnLo6GYGf-6" value="&lt;br style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;已确认且没有过预报日期的投资意向&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=13;fontStyle=1" vertex="1" parent="1">
