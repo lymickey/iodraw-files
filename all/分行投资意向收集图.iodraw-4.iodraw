@@ -204,7 +204,7 @@
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-140" y="250" width="40" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-27" value="上报应用：&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-27" value="上报应用：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-110" y="230" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
