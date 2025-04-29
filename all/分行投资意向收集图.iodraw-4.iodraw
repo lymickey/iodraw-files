@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="560" y="50" width="310" height="440" as="geometry">
+          <mxGeometry x="560" y="50" width="280" height="440" as="geometry">
             <mxRectangle x="560" y="50" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-3" value="看板：获取已确认的投资意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="w62210OV9jtoe8EUsqev-44">
-          <mxGeometry x="200" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="160" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
