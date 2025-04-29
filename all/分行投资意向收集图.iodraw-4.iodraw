@@ -20,11 +20,16 @@
           <mxGeometry x="160" y="50" width="430" height="730" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="w62210OV9jtoe8EUsqev-1" target="w62210OV9jtoe8EUsqev-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="160" />
+              <mxPoint x="120" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-6" value="系统统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-5">
           <mxGeometry x="-0.3542" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-1" value="（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
