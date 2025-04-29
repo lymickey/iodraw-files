@@ -151,12 +151,9 @@
             <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-12" value="销售人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="470" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-12" target="G6c4nY7Gtxy5bMa6vGOd-1">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-3" target="G6c4nY7Gtxy5bMa6vGOd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="490" as="sourcePoint" />
+            <mxPoint x="155" y="500" as="sourcePoint" />
             <mxPoint x="152.98999999999978" y="547.9200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
