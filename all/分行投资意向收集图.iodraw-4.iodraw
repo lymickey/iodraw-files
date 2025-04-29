@@ -13,7 +13,7 @@
         <mxCell id="w62210OV9jtoe8EUsqev-18" value="应用1：删除" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-24" value="" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="w62210OV9jtoe8EUsqev-24" value="修改或者删除" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -48,7 +48,7 @@
         <mxCell id="w62210OV9jtoe8EUsqev-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="w62210OV9jtoe8EUsqev-20" target="w62210OV9jtoe8EUsqev-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-25">
+        <mxCell id="w62210OV9jtoe8EUsqev-26" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-25">
           <mxGeometry x="-0.0333" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
