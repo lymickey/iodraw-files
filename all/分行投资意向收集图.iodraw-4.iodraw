@@ -91,7 +91,7 @@
           <mxGeometry x="285" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="685" y="50" width="260" height="460" as="geometry" />
+          <mxGeometry x="685" y="50" width="215" height="460" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="w62210OV9jtoe8EUsqev-20" target="w62210OV9jtoe8EUsqev-24">
           <mxGeometry relative="1" as="geometry" />
