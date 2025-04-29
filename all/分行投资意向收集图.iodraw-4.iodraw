@@ -13,7 +13,7 @@
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="430" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-8" value="上报预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+        <mxCell id="77e6c97f196da883-8" value="上报预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="-140" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-8" target="w62210OV9jtoe8EUsqev-1">
@@ -32,11 +32,11 @@
             <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-1" value="（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="w62210OV9jtoe8EUsqev-1" value="（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看：日期区间内所有产品的预报统计情况" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="70" y="180" width="100" height="60" as="geometry" />
+          <mxGeometry x="70" y="160" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
