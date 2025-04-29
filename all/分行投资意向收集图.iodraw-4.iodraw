@@ -176,7 +176,7 @@
           <mxGeometry x="45" y="620" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-20" value="产品申赎展开明细：&lt;div&gt;产品、机构、&lt;span style=&quot;background-color: initial;&quot;&gt;预报日期、投资意向、金额、到期(个人和机构）份额&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="780" width="210" height="85" as="geometry" />
+          <mxGeometry x="50" y="750" width="210" height="85" as="geometry" />
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-21" value="应用2： 看板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-75" y="560" width="160" height="60" as="geometry" />
