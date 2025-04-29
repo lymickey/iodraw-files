@@ -138,7 +138,7 @@
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;看板应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="600" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-3" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;vertical-align: middle; font-size: 16px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;(新建）上报应用&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-3" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;vertical-align: middle; font-size: 16px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;(新建）上报应用&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="170" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-4" value="数据中台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -202,7 +202,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUazRCD42ugrnLo6GYGf-6" value="&lt;br style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;已确认的全量投资意向&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;align=left;fontSize=13;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="lUazRCD42ugrnLo6GYGf-6" value="&lt;br style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;已确认的全量投资意向&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=13;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="350" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
