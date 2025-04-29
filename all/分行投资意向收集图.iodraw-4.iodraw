@@ -167,7 +167,7 @@
             <mxPoint x="150" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-16" value="实时接口(增量）：&lt;div&gt;销售经理确认分行预报后&lt;div&gt;或者&lt;/div&gt;&lt;div&gt;销售经理自己预报后&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-16" value="&lt;br&gt;&lt;div&gt;销售经理确认分行预报后&lt;div&gt;或者&lt;/div&gt;&lt;div&gt;销售经理自己预报后&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
           <mxGeometry x="-0.3768" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="31" as="offset" />
           </mxGeometry>
