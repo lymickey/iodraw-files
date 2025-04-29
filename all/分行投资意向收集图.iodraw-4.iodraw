@@ -111,18 +111,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xnfFNmd2kKSZTGpTJY0U-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wyJs4mEoIsKsncESxBx2-1" target="wyJs4mEoIsKsncESxBx2-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wyJs4mEoIsKsncESxBx2-1" value="应用1：上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wyJs4mEoIsKsncESxBx2-2" value="应用2：&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xnfFNmd2kKSZTGpTJY0U-2" value="确定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="108" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
