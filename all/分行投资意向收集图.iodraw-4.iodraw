@@ -10,6 +10,9 @@
         <mxCell id="77e6c97f196da883-2" value="华夏银行分行人员" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="50" width="160" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-18" value="应用1：上报预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="390" height="730" as="geometry" />
         </mxCell>
@@ -37,6 +40,9 @@
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-4" value="应用2：选择时间区间查看所有产品的统计结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="260" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-19" value="应用1：（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
