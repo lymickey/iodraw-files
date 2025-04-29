@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="590" width="475" height="260" as="geometry" />
+          <mxGeometry x="-75" y="590" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-3" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;vertical-align: middle; font-size: 16px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;上报应用&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="170" width="115" height="90" as="geometry" />
@@ -180,12 +180,6 @@
         <mxCell id="lUazRCD42ugrnLo6GYGf-11" value="T日晚上12点跑批全量推送过去" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
           <mxGeometry x="-0.4333" relative="1" as="geometry">
             <mxPoint y="29" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="710" as="sourcePoint" />
-            <mxPoint x="155" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-21" value="看板应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
