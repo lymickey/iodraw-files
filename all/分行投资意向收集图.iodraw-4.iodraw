@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="lUazRCD42ugrnLo6GYGf-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;主动触发&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信息同步&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lUazRCD42ugrnLo6GYGf-3">
           <mxGeometry x="-0.8316" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="78" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -200,7 +200,7 @@
         <mxCell id="G6c4nY7Gtxy5bMa6vGOd-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-140" y="250" width="40" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="lUazRCD42ugrnLo6GYGf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lUazRCD42ugrnLo6GYGf-4">
+        <mxCell id="lUazRCD42ugrnLo6GYGf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lUazRCD42ugrnLo6GYGf-4" target="G6c4nY7Gtxy5bMa6vGOd-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="190" as="targetPoint" />
           </mxGeometry>
