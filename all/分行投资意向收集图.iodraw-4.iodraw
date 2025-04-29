@@ -11,7 +11,7 @@
           <mxGeometry y="50" width="160" height="730" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-24" value="修改或者删除" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="390" height="730" as="geometry" />
@@ -44,6 +44,11 @@
             <mxPoint x="160" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-31">
+          <mxGeometry x="0.5779" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-20" value="是否被确认" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="80" y="170" width="80" height="80" as="geometry" />
         </mxCell>
@@ -52,7 +57,7 @@
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-26" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w62210OV9jtoe8EUsqev-25">
           <mxGeometry x="-0.0333" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-44" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
