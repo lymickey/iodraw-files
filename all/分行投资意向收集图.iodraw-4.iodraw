@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px;&quot;&gt;&lt;font face=&quot;微软简标宋&quot; style=&quot;font-size: 13px;&quot;&gt;机构客户申赎预报-业务流程&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=50;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=13;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-10" width="900" height="490" as="geometry" />
+          <mxGeometry x="80" y="-10" width="870" height="490" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="华夏银行分行人员" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="50" width="160" height="440" as="geometry" />
@@ -95,7 +95,7 @@
             <mxPoint x="675" y="393" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="460" />
-              <mxPoint x="670" y="460" />
+              <mxPoint x="640" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,12 +111,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="560" y="50" width="340" height="440" as="geometry">
+          <mxGeometry x="560" y="50" width="310" height="440" as="geometry">
             <mxRectangle x="560" y="50" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-57" value="应用2：选择时间区间查看管理产品的预报统计结果和明细结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="w62210OV9jtoe8EUsqev-44">
-          <mxGeometry x="60" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w62210OV9jtoe8EUsqev-44" source="xRIRp4RSkCMHAAPW-OC7-3" target="w62210OV9jtoe8EUsqev-57">
           <mxGeometry relative="1" as="geometry" />
