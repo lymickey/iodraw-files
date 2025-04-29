@@ -162,7 +162,7 @@
             <mxPoint x="150" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;T日跑批同步：&lt;b style=&quot;font-size: 12px;&quot;&gt;只同步时间上没有晚于没有“预报&lt;/b&gt;&lt;b&gt;日期&lt;/b&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;”&lt;/b&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;的投资意向&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#e70d0d;" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;T日跑批同步：&lt;b style=&quot;font-size: 12px;&quot;&gt;只同步时间上没有晚于没有“预报&lt;/b&gt;&lt;b&gt;日期&lt;/b&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;”&lt;/b&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;的全量投资意向&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#e70d0d;" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
           <mxGeometry x="-0.3768" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="31" as="offset" />
           </mxGeometry>
