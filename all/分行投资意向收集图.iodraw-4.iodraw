@@ -13,6 +13,9 @@
         <mxCell id="w62210OV9jtoe8EUsqev-18" value="应用1：删除" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="300" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w62210OV9jtoe8EUsqev-24" value="" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="390" height="730" as="geometry" />
         </mxCell>
@@ -39,14 +42,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="w62210OV9jtoe8EUsqev-20" target="w62210OV9jtoe8EUsqev-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-20" value="是否被确认" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="80" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-24" value="" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="-100" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="w62210OV9jtoe8EUsqev-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="w62210OV9jtoe8EUsqev-20" target="w62210OV9jtoe8EUsqev-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
