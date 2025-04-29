@@ -176,7 +176,7 @@
             <mxPoint x="689.9200000000001" y="-28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lUazRCD42ugrnLo6GYGf-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
+        <mxCell id="lUazRCD42ugrnLo6GYGf-11" value="T日晚上12点跑批全量推送过去" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-15">
           <mxGeometry x="-0.4333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
