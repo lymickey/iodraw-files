@@ -64,7 +64,7 @@
           <mxGeometry x="285" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="560" y="50" width="235" height="460" as="geometry" />
+          <mxGeometry x="560" y="50" width="185" height="460" as="geometry" />
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-57" value="应用2：选择时间区间查看管理产品的预报统计结果和明细结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="w62210OV9jtoe8EUsqev-44">
           <mxGeometry x="65" y="320" width="100" height="60" as="geometry" />
