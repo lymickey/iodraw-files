@@ -104,6 +104,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xRIRp4RSkCMHAAPW-OC7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" target="w62210OV9jtoe8EUsqev-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="610" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="560" y="50" width="340" height="440" as="geometry">
             <mxRectangle x="560" y="50" width="40" height="480" as="alternateBounds" />
@@ -117,12 +123,6 @@
         </mxCell>
         <mxCell id="xRIRp4RSkCMHAAPW-OC7-3" value="看板：获取已确认的投资意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=left;" vertex="1" parent="w62210OV9jtoe8EUsqev-44">
           <mxGeometry x="220" y="320" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xRIRp4RSkCMHAAPW-OC7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" target="w62210OV9jtoe8EUsqev-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="270" as="sourcePoint" />
-            <mxPoint x="610" y="210" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
