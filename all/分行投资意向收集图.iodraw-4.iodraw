@@ -35,7 +35,7 @@
         <mxCell id="w62210OV9jtoe8EUsqev-1" value="（批量）确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="65" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="w62210OV9jtoe8EUsqev-4" value="查看：日期区间内所有产品的预报统计情况" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="70" y="205" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
