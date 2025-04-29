@@ -19,14 +19,13 @@
         <mxCell id="w62210OV9jtoe8EUsqev-36" value="应用1： 修改或删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-2" source="w62210OV9jtoe8EUsqev-37" target="w62210OV9jtoe8EUsqev-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="w62210OV9jtoe8EUsqev-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-2" source="w62210OV9jtoe8EUsqev-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w62210OV9jtoe8EUsqev-37" value="是否被确认或者作废" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="40" y="500" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-39" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="50" width="390" height="730" as="geometry" />
