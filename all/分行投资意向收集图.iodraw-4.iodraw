@@ -165,7 +165,7 @@
             <mxPoint x="-250" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-7" value="每日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-6">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-7" value="每日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-6">
           <mxGeometry x="-0.1455" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -179,7 +179,7 @@
             <mxPoint x="-270" y="229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-10" value="实时搜索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-9">
+        <mxCell id="G6c4nY7Gtxy5bMa6vGOd-10" value="实时搜索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="G6c4nY7Gtxy5bMa6vGOd-9">
           <mxGeometry x="-0.1455" y="9" relative="1" as="geometry">
             <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
@@ -232,7 +232,7 @@
             <mxPoint x="60" y="208.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-RAj8-qcHBsvVLgzJl_J-4" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-RAj8-qcHBsvVLgzJl_J-1">
+        <mxCell id="-RAj8-qcHBsvVLgzJl_J-4" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="-RAj8-qcHBsvVLgzJl_J-1">
           <mxGeometry x="0.3435" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
