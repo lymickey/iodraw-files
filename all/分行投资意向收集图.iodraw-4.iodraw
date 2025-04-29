@@ -10,7 +10,7 @@
         <mxCell id="77e6c97f196da883-2" value="华夏银行分行人员" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="50" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-24" value="修改后，重新上报意向" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="w62210OV9jtoe8EUsqev-24" value="1.修改后，重新上报意向" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
