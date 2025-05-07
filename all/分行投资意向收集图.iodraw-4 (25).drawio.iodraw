@@ -13,7 +13,7 @@
         <mxCell id="w62210OV9jtoe8EUsqev-24" value="修改重提或删除" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-8" value="预报新意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-8" value="上报模块：预报新意向" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="30" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="华夏理财销售经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
