@@ -108,9 +108,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-MC6waDATKzowu7J92p-20" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="200" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -119,7 +116,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QzXb0mcdspLqd2O1Azz4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzXb0mcdspLqd2O1Azz4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="471" height="640" as="geometry" />
         </mxCell>
         <mxCell id="lUazRCD42ugrnLo6GYGf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6c4nY7Gtxy5bMa6vGOd-1" target="lUazRCD42ugrnLo6GYGf-4" edge="1">
