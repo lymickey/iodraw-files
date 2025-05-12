@@ -218,8 +218,8 @@
         </mxCell>
         <mxCell id="Rncm__M2nwoVtg5Xbkl0-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="300" as="sourcePoint" />
-            <mxPoint x="-220" y="229.5" as="targetPoint" />
+            <mxPoint x="-220" y="230" as="sourcePoint" />
+            <mxPoint x="-130" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-170" y="229.5" />
             </Array>
@@ -227,7 +227,7 @@
         </mxCell>
         <mxCell id="Rncm__M2nwoVtg5Xbkl0-8" value="实时查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Rncm__M2nwoVtg5Xbkl0-7">
           <mxGeometry x="0.3435" y="3" relative="1" as="geometry">
-            <mxPoint x="10" y="-3" as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
