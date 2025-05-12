@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财投资经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="w62210OV9jtoe8EUsqev-44" value="华夏理财投资经理" style="swimlane;html=1;startSize=20;swimlaneLine=1;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="560" y="50" width="140" height="390" as="geometry">
             <mxRectangle x="560" y="50" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
@@ -107,12 +107,6 @@
           <mxGeometry x="0.5779" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7-MC6waDATKzowu7J92p-18" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="160" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="7-MC6waDATKzowu7J92p-19" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="430" width="540" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
