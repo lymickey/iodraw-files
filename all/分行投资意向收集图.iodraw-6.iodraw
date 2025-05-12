@@ -223,13 +223,13 @@
         </mxCell>
         <mxCell id="-RAj8-qcHBsvVLgzJl_J-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="440.4100000000001" as="sourcePoint" />
-            <mxPoint x="-60" y="440" as="targetPoint" />
+            <mxPoint x="-150" y="520" as="sourcePoint" />
+            <mxPoint x="-150" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-RAj8-qcHBsvVLgzJl_J-5" value="每日同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="-RAj8-qcHBsvVLgzJl_J-2" vertex="1" connectable="0">
           <mxGeometry x="0.4847" y="-4" relative="1" as="geometry">
-            <mxPoint x="-24" y="-3" as="offset" />
+            <mxPoint x="1" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rncm__M2nwoVtg5Xbkl0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLorT0GPuKpuWQJjRFQk-1" target="Rncm__M2nwoVtg5Xbkl0-1">
