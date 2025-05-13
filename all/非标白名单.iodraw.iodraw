@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="统计额度条件通过或者通过的票数大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1320" width="140" height="140" as="geometry" />
+          <mxGeometry x="50" y="1270" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
