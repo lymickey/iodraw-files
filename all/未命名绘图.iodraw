@@ -28,7 +28,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-6" value="部门总经理&lt;div&gt;确定是否可以&lt;div&gt;上会&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-10" value="上会传签" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-10" value="上会传签：&lt;div&gt;1. 融资人和担保人额度&lt;/div&gt;&lt;div&gt;2. 项目是否是否立项&lt;/div&gt;&lt;div&gt;3. 融资人和担保人（&lt;/div&gt;&lt;div&gt;2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
