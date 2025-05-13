@@ -29,11 +29,6 @@
             <mxPoint x="500" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-27" value="不是系统自动发起）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-11">
-          <mxGeometry x="0.0559" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-6" target="fAEMT0x93CNpTBoLQ5pu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -52,7 +47,7 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-32" value="否决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-30">
           <mxGeometry x="-0.0857" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-6" value="部门总经理&lt;div&gt;确定是否可以&lt;div&gt;上会&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
