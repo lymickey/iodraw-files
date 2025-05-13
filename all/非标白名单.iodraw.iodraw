@@ -210,7 +210,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="统计额度条件通过或者通过的票数大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-143" y="1305.01" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-90" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-90" value="项目额度的批复是否大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1205" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
