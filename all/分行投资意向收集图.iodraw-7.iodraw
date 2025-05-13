@@ -313,8 +313,8 @@
         <mxCell id="e9LrcBnCepznxKqXj4wp-20" value="查看投资意向统计报表" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#FF0000;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e9LrcBnCepznxKqXj4wp-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="e9LrcBnCepznxKqXj4wp-22" value="预报投资意向应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
