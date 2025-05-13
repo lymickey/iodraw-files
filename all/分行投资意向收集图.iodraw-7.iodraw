@@ -273,10 +273,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S-Hm-yHJV_H_0GgWgmlz-16" value="分行填写投资意向（金额和日期）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#FF0000;rounded=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-730" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S-Hm-yHJV_H_0GgWgmlz-21" value="销售经理确认" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#FF0000;rounded=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="-730" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
