@@ -145,7 +145,7 @@
           <mxGeometry x="440" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-52" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-53" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1047.5" width="120" height="65" as="geometry" />
