@@ -158,8 +158,11 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-73" value="1. 融资人额度跟项目额度一样&lt;div style=&quot;font-size: 16px;&quot;&gt;担保人有自己的额度&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;2. 每个风险审查人员要看到投票统计结论&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="1184.99" width="360" height="90.01" as="geometry" />
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-75" target="fAEMT0x93CNpTBoLQ5pu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1185" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="1160" width="119" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
