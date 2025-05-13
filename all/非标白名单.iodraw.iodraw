@@ -238,8 +238,8 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-93" value="录入上会会议审批结论&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-99" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1206" width="60" height="30" as="geometry" />
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-99" value="上会要素录入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1206" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
