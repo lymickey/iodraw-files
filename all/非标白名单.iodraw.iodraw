@@ -143,6 +143,9 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="919.995" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-48" target="fAEMT0x93CNpTBoLQ5pu-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入（删除会议审议结论中的不通过、续议选项）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -151,6 +154,9 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-53" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="927.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-55" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
