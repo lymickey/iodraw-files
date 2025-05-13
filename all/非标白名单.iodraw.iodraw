@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="690" width="390" height="300" as="geometry" />
+          <mxGeometry x="320" y="690" width="390" height="300" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="230" height="400" as="geometry" />
@@ -86,11 +86,12 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="上会评审：&lt;br&gt;&lt;div&gt;选择传签委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="710" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-10">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="834" />
+              <mxPoint x="230" y="690" />
+              <mxPoint x="322" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
