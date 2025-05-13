@@ -77,8 +77,7 @@
             <mxPoint x="-150" y="1130" as="targetPoint" />
             <Array as="points">
               <mxPoint x="365" y="1030" />
-              <mxPoint x="-150" y="1030" />
-              <mxPoint x="-150" y="1165" />
+              <mxPoint x="-343" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,7 +165,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div style=&quot;font-size: 15px;&quot;&gt;增加最终主体额度，期限（项目期限和主体期限）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="310" y="1200" width="380" height="260" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-52" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
