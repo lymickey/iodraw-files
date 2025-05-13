@@ -151,14 +151,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div style=&quot;font-size: 14px;&quot;&gt;增加最终主体额度，期限（项目期限和主体期限）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div style=&quot;font-size: 15px;&quot;&gt;增加最终主体额度，期限（项目期限和主体期限）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="310" y="1200" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-52" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-55" value="登记项目台账" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1540" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="1350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="统计额度条件通过或者通过的票数大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="1270" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
