@@ -78,10 +78,14 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.064;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="310" />
+              <mxPoint x="260" y="681" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-18" value="ESG认定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="110" height="100" as="geometry" />
+          <mxGeometry x="110" y="260" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-21" value="不改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="80" height="60" as="geometry" />
