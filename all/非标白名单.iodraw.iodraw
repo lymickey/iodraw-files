@@ -21,7 +21,7 @@
             <mxPoint x="500" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-4" value="风险审查，增加录入：&lt;div&gt;1. 融资人和担保人（如果有）额度&lt;/div&gt;&lt;div&gt;2. 项目额度（默认与融资人额度&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-4" value="风险审查，增加录入：&lt;div&gt;1. 融资人和担保人（如果有）额度&lt;/div&gt;&lt;div&gt;2. 项目额度（默认与融资人额度&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="425" y="260" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="fAEMT0x93CNpTBoLQ5pu-10">
@@ -117,7 +117,7 @@
           <mxGeometry x="440" y="930" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-29" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="520" width="120" height="65" as="geometry" />
+          <mxGeometry x="710" y="560" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-6" target="fAEMT0x93CNpTBoLQ5pu-1">
           <mxGeometry relative="1" as="geometry">
