@@ -108,7 +108,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-24" target="fAEMT0x93CNpTBoLQ5pu-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-49">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-50" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-49">
           <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -138,7 +138,7 @@
           <mxGeometry x="110" y="919.995" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div&gt;删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
