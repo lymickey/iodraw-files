@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="额度是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1160" width="140" height="140" as="geometry" />
+          <mxGeometry x="200" y="1315" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
