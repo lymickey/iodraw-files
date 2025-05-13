@@ -40,7 +40,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-6" target="fAEMT0x93CNpTBoLQ5pu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-32" value="否决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-30">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-32" value="否决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-30">
           <mxGeometry x="-0.0857" y="5" relative="1" as="geometry">
             <mxPoint x="-39" as="offset" />
           </mxGeometry>
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-44" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-43">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-44" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-43">
           <mxGeometry x="-0.1761" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
