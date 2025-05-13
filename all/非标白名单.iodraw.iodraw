@@ -75,14 +75,14 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="风险审查秘书：&lt;div&gt;选择传签上会委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="540" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-10">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="310" />
-              <mxPoint x="260" y="640" />
-              <mxPoint x="290" y="640" />
-              <mxPoint x="290" y="765" />
+              <mxPoint x="290" y="310" />
+              <mxPoint x="290" y="730" />
+              <mxPoint x="360" y="730" />
+              <mxPoint x="360" y="733" />
             </Array>
           </mxGeometry>
         </mxCell>
