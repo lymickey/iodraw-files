@@ -218,7 +218,7 @@
             <mxPoint x="640" y="1255" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="1255" />
-              <mxPoint x="600" y="1476" />
+              <mxPoint x="600" y="1510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -229,10 +229,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-91" value="上会要素录入:&lt;div style=&quot;font-size: 13px;&quot;&gt;担保人和项目额度、项目期限、其它要素&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1345.01" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-93" value="上会会议审批结论&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1445.01" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
