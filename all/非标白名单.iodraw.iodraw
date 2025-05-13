@@ -76,12 +76,12 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-14" target="fAEMT0x93CNpTBoLQ5pu-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-47" value="同步额度和白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-46">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-47" value="同步额度和白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-46">
           <mxGeometry x="-0.1556" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-14" value="额度或者白名单传签票数&amp;gt;=2/3委员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-14" value="额度或者白名单传签票数&amp;gt;=2/3委员" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="100" y="693.13" width="140" height="143.75" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="风险审查秘书：&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;手工发起上会传签：&lt;/span&gt;选择传签委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
             <mxPoint x="-2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-170" y="734.995" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
