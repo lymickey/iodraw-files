@@ -29,7 +29,7 @@
           <mxGeometry x="450" y="320" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-10" value="传签" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="460" width="380" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
