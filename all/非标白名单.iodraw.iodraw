@@ -155,8 +155,8 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-68" value="风险审查总经理审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-73" value="1. 融资人额度跟项目额度一样&lt;div&gt;担保人有自己的额度&lt;/div&gt;&lt;div&gt;2. 每个风险审查人员要看到投票统计结论&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1199.99" width="280" height="30" as="geometry" />
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-73" value="1. 融资人额度跟项目额度一样&lt;div style=&quot;font-size: 16px;&quot;&gt;担保人有自己的额度&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;2. 每个风险审查人员要看到投票统计结论&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1199.99" width="360" height="90.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
