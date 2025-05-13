@@ -150,6 +150,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-110" value="复用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-109">
+          <mxGeometry x="0.3082" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-403" y="1235.0149999999999" width="120" height="60" as="geometry" />
         </mxCell>
