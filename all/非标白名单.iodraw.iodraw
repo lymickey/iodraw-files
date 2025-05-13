@@ -135,7 +135,7 @@
           <mxGeometry x="390" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-53" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1480" width="120" height="65" as="geometry" />
+          <mxGeometry x="650" y="1210" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-55" value="登记项目台账" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1330" width="120" height="80" as="geometry" />
