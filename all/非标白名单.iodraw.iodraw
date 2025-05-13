@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="上会评审：&lt;br&gt;&lt;div&gt;选择传签委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="420" y="710" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="710" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-66">
           <mxGeometry relative="1" as="geometry">
