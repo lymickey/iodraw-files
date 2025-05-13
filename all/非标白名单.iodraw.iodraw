@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-24" value="白名单传签票数是否&amp;gt;=2/3投票委员(分开）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1130" width="160" height="170" as="geometry" />
+          <mxGeometry x="20" y="1130" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-29" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="120" height="65" as="geometry" />
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1184.995" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="1184.995" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-48" target="fAEMT0x93CNpTBoLQ5pu-55">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div&gt;增加最终主体额度，期限（项目期限和主体期限）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1200" width="410" height="280" as="geometry" />
+          <mxGeometry x="310" y="1200" width="380" height="280" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-52" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="620" width="60" height="30" as="geometry" />
