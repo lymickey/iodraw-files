@@ -155,6 +155,9 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-68" value="风险审查总经理审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="110" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1200" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
