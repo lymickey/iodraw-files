@@ -144,14 +144,13 @@
             <mxPoint x="-483" y="1265.0149999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-450" y="1265" />
-              <mxPoint x="-450" y="880" />
-              <mxPoint x="320" y="880" />
+              <mxPoint x="-450" y="883" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-110" value="单独提前入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-109">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-110" value="单独提前入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-109">
           <mxGeometry x="0.3082" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
