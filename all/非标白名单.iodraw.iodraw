@@ -162,10 +162,10 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-84" value="入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-82">
           <mxGeometry x="0.1418" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-77" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="310" y="1200" width="380" height="260" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-52" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
