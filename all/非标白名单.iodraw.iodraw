@@ -91,9 +91,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="165" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="310" />
-              <mxPoint x="310" y="670" />
-              <mxPoint x="360" y="670" />
+              <mxPoint x="280" y="310" />
+              <mxPoint x="280" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +137,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="110" y="919.995" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入:&lt;div&gt;删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="上会要素录入：" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
