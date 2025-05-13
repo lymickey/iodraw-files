@@ -48,6 +48,15 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-6" target="fAEMT0x93CNpTBoLQ5pu-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="455" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="455" />
+              <mxPoint x="400" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-40" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-39">
+          <mxGeometry x="-0.1761" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-6" value="部门总经理&lt;div&gt;确定是否可以&lt;div&gt;上会&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
