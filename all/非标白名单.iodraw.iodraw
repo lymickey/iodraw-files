@@ -210,8 +210,14 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-75" value="统计额度条件通过或者通过的票数大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-143" y="1305.01" width="140" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-90" target="fAEMT0x93CNpTBoLQ5pu-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-90" value="项目额度的批复是否大于等于2/3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1200" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-91" value="上会要素录入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
