@@ -237,7 +237,7 @@
         <mxCell id="S-Hm-yHJV_H_0GgWgmlz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-Hm-yHJV_H_0GgWgmlz-4" target="S-Hm-yHJV_H_0GgWgmlz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S-Hm-yHJV_H_0GgWgmlz-9" value="产品基础信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-Hm-yHJV_H_0GgWgmlz-8">
+        <mxCell id="S-Hm-yHJV_H_0GgWgmlz-9" value="产品基础数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-Hm-yHJV_H_0GgWgmlz-8">
           <mxGeometry x="-0.2336" y="-2" relative="1" as="geometry">
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
