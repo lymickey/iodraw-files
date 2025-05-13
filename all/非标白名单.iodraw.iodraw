@@ -96,7 +96,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-24" target="fAEMT0x93CNpTBoLQ5pu-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-24" value="额度和白名单传签票数是否&amp;gt;=2/3投票委员(分开）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-24" value="白名单传签票数是否&amp;gt;=2/3投票委员(分开）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1145" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-29" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
