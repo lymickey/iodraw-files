@@ -77,7 +77,7 @@
             <mxPoint x="-150" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-88" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-87">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-88" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontColor=#FF0000;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-87">
           <mxGeometry x="-0.4418" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
