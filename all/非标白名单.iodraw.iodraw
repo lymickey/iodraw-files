@@ -152,21 +152,21 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-83" value="不入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-71">
           <mxGeometry x="0.1053" y="-1" relative="1" as="geometry">
-            <mxPoint x="-67" y="1" as="offset" />
+            <mxPoint x="-7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-48" target="fAEMT0x93CNpTBoLQ5pu-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="1210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="159" y="1270" />
-              <mxPoint x="159" y="1265" />
+              <mxPoint x="230" y="1265" />
+              <mxPoint x="230" y="1265" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-84" value="入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-82">
           <mxGeometry x="0.1418" y="2" relative="1" as="geometry">
-            <mxPoint x="-77" y="-36" as="offset" />
+            <mxPoint x="-7" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-48" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-93" value="录入上会会议审批结论&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-99" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1206" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
