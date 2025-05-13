@@ -87,7 +87,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-14" value="额度或者白名单传签票数&amp;gt;=2/3委员" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="100" y="693.13" width="140" height="143.75" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="风险审查秘书：&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;手工发起上会传签：&lt;/span&gt;选择传签委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="风险审查秘书：&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;手工发起上会传签，&lt;/span&gt;选择传签委员名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-10">
@@ -157,12 +157,6 @@
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-55" value="登记项目台账" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="610" as="sourcePoint" />
-            <mxPoint x="560" y="560" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
