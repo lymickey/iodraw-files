@@ -10,8 +10,14 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-1" value="项目营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-2" target="fAEMT0x93CNpTBoLQ5pu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-2" value="项目立项" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-4" value="项目" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
