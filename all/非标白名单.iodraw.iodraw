@@ -89,12 +89,12 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-16" value="上会评审-发起传签，&lt;br&gt;&lt;div&gt;1.选择传签委员名单&lt;/div&gt;&lt;div&gt;2. 录入：&lt;div&gt;融资人和担保人（如果有）额度&lt;/div&gt;&lt;div&gt;项目额度（默认与融资人额度、项目期限&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. 项目要素变更说明&lt;/div&gt;&lt;div&gt;4. 第几期会议&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="850" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-66">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.088;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-18" target="fAEMT0x93CNpTBoLQ5pu-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="765" />
-              <mxPoint x="317" y="765" />
+              <mxPoint x="354" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
