@@ -73,7 +73,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上会传签，判决事项如下：&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1. 融资人和担保人(如果有）的总额度、非标项目额度&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2. 项目是否可以立项&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3. 没有入白名单的融资人和担保人（如果有）是否入库&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="280" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-14" target="fAEMT0x93CNpTBoLQ5pu-45">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-14" target="fAEMT0x93CNpTBoLQ5pu-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-47" value="同步额度和白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="fAEMT0x93CNpTBoLQ5pu-46">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="734.995" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="735.005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
