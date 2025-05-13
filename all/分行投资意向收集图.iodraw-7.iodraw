@@ -222,7 +222,7 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN95GeVTSiygqc68yyId-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN95GeVTSiygqc68yyId-1" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 16px; font-weight: 700;&quot;&gt;选择投资意向上报机构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="600" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
