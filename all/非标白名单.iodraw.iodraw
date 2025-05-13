@@ -142,6 +142,12 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAEMT0x93CNpTBoLQ5pu-45" target="fAEMT0x93CNpTBoLQ5pu-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-483" y="1265.0149999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-450" y="1265" />
+              <mxPoint x="-450" y="880" />
+              <mxPoint x="19" y="880" />
+              <mxPoint x="19" y="883" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-45" value="投资综合系统:更新额度和白名单入库" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
