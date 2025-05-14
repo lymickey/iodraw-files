@@ -16,7 +16,7 @@
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fAEMT0x93CNpTBoLQ5pu-1" target="fAEMT0x93CNpTBoLQ5pu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAEMT0x93CNpTBoLQ5pu-1" value="项目营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="fAEMT0x93CNpTBoLQ5pu-1" value="项目营销:&lt;div&gt;新增几个白名单入库时需要的字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="420" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAEMT0x93CNpTBoLQ5pu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fAEMT0x93CNpTBoLQ5pu-2" target="fAEMT0x93CNpTBoLQ5pu-4" edge="1">
