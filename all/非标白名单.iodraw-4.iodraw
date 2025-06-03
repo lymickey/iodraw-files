@@ -387,11 +387,14 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-30" value="是否续议" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-39" value="无需改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
