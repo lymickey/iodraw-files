@@ -320,9 +320,6 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-9" target="8d0XvsDzvTX48WQU0yAq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-9" target="8d0XvsDzvTX48WQU0yAq-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-9" value="风险审查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -331,6 +328,9 @@
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-11" value="上会评审发起" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-13" target="8d0XvsDzvTX48WQU0yAq-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-13" value="风险审查补充材料(项目经理）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="470" width="120" height="60" as="geometry" />
