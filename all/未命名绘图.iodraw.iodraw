@@ -28,7 +28,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-8" value="投资研究部分配经办人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-10" value="投资研究部经办人审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
