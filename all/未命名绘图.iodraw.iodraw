@@ -45,8 +45,10 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-12" value="投资研究部总经理审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-14" target="EQME0hsN4fWqCC_QtStx-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EQME0hsN4fWqCC_QtStx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-14" target="EQME0hsN4fWqCC_QtStx-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-14" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1110" width="120" height="60" as="geometry" />
@@ -57,11 +59,8 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-17" value="是否是收益凭证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="EQME0hsN4fWqCC_QtStx-19" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1200" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
