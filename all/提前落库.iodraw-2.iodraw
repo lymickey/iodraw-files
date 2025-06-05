@@ -197,13 +197,16 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-56" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SCMHZvEzq54hfK2paQ5Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-59" target="SCMHZvEzq54hfK2paQ5Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-59" value="临时表1：用来给估值系统" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="860" y="1170" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQME0hsN4fWqCC_QtStx-65" target="EQME0hsN4fWqCC_QtStx-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="最终台账：&lt;div&gt;1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1169" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-75" value="贷后管理使用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -214,6 +217,9 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-84" value="要改成" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.44285714285714284;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="687" y="820" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SCMHZvEzq54hfK2paQ5Q-1" value="" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1355" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
