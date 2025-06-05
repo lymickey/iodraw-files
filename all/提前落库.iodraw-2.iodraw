@@ -138,11 +138,6 @@
             <mxPoint x="1350" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCMHZvEzq54hfK2paQ5Q-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EQME0hsN4fWqCC_QtStx-55">
-          <mxGeometry x="-0.3596" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
@@ -161,7 +156,7 @@
           <mxGeometry x="520" y="1200" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-56" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="1194" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SCMHZvEzq54hfK2paQ5Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.458;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SCMHZvEzq54hfK2paQ5Q-3" target="SCMHZvEzq54hfK2paQ5Q-1">
           <mxGeometry relative="1" as="geometry">
@@ -180,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="最终台账：&lt;div&gt;1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1169" width="130" height="110" as="geometry" />
+          <mxGeometry x="1060" y="1150" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-75" value="贷后管理使用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="1380" width="120" height="60" as="geometry" />
