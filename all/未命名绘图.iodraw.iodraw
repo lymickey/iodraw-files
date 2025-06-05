@@ -19,7 +19,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-6" target="EQME0hsN4fWqCC_QtStx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-6" value="项目经理总经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
