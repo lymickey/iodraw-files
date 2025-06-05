@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-2" value="项目经理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="120" height="60" as="geometry" />
@@ -22,16 +22,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-5" value="项目经理&lt;div&gt;部门领导&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKLmkvag_VP5dIZoGM8n-7" target="KKLmkvag_VP5dIZoGM8n-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-7" value="投资研究部分配经办人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKLmkvag_VP5dIZoGM8n-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="KKLmkvag_VP5dIZoGM8n-9" value="投资研究部经办" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
