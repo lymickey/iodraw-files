@@ -138,14 +138,13 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-44" target="EQME0hsN4fWqCC_QtStx-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EQME0hsN4fWqCC_QtStx-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1165" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-44" value="是否是收益凭证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="550" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-45" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1170" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-46" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1200" width="130" height="110" as="geometry" />
@@ -174,6 +173,9 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-59" value="1.删除还款计划（如果有）&lt;div&gt;2. 删除台账&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="670" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1210" width="130" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
