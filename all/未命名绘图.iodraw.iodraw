@@ -50,7 +50,7 @@
             <mxPoint x="330" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-23" value="原来" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EQME0hsN4fWqCC_QtStx-22">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-23" value="审批通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EQME0hsN4fWqCC_QtStx-22">
           <mxGeometry x="0.051" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -107,16 +107,6 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-39" value="投资研究部总经理审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-42" target="EQME0hsN4fWqCC_QtStx-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="1220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-41" value="原来" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EQME0hsN4fWqCC_QtStx-40">
-          <mxGeometry x="0.051" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1080" width="120" height="60" as="geometry" />
