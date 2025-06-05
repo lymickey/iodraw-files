@@ -149,16 +149,6 @@
             <mxPoint x="-13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-3" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mA-w7_tsLreO69uB3hNI-2">
-          <mxGeometry x="-0.0559" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-39" value="投资研究部总经理审批" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="910" width="120" height="60" as="geometry" />
         </mxCell>
@@ -180,11 +170,6 @@
         <mxCell id="mA-w7_tsLreO69uB3hNI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-6" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mA-w7_tsLreO69uB3hNI-5">
-          <mxGeometry x="-0.0693" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -213,7 +198,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQME0hsN4fWqCC_QtStx-65" target="EQME0hsN4fWqCC_QtStx-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="1. 生成或者更新明细和合并台账&lt;div&gt;2.生成或者更新还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1169" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-75" value="贷后管理使用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
