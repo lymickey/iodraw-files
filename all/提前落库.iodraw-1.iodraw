@@ -177,8 +177,15 @@
             <mxPoint x="-14" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-42" target="mA-w7_tsLreO69uB3hNI-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mA-w7_tsLreO69uB3hNI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mA-w7_tsLreO69uB3hNI-6" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mA-w7_tsLreO69uB3hNI-5">
+          <mxGeometry x="-0.0693" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1040" width="120" height="60" as="geometry" />
@@ -217,9 +224,6 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-84" value="要改成" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.44285714285714284;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="687" y="820" width="140" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
