@@ -151,10 +151,10 @@
         </mxCell>
         <mxCell id="mA-w7_tsLreO69uB3hNI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1240" y="940" as="targetPoint" />
+            <mxPoint x="1340" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mA-w7_tsLreO69uB3hNI-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mA-w7_tsLreO69uB3hNI-2">
+        <mxCell id="mA-w7_tsLreO69uB3hNI-3" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mA-w7_tsLreO69uB3hNI-2">
           <mxGeometry x="-0.0559" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
