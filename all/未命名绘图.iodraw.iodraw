@@ -80,6 +80,9 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-30" target="EQME0hsN4fWqCC_QtStx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EQME0hsN4fWqCC_QtStx-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-30" target="EQME0hsN4fWqCC_QtStx-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-30" value="&amp;nbsp;项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -164,6 +167,9 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-59" value="1.删除还款计划（如果有）&lt;div&gt;2. 删除台账&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQME0hsN4fWqCC_QtStx-62" value="&amp;nbsp;项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
