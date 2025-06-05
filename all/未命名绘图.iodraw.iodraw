@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-4" value="&amp;nbsp;项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-6" target="EQME0hsN4fWqCC_QtStx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-6" value="项目经理总经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-8" target="EQME0hsN4fWqCC_QtStx-10">
           <mxGeometry relative="1" as="geometry" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-14" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="620" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
