@@ -13,7 +13,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-4" target="EQME0hsN4fWqCC_QtStx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-4" value="&amp;nbsp;项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-6" target="EQME0hsN4fWqCC_QtStx-8">
