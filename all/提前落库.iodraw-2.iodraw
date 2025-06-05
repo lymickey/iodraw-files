@@ -144,6 +144,12 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EQME0hsN4fWqCC_QtStx-44" edge="1" target="EQME0hsN4fWqCC_QtStx-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1345" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="590" />
+              <mxPoint x="1210" y="890" />
+              <mxPoint x="1209" y="890" />
+              <mxPoint x="1209" y="1205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-44" value="是否是收益凭证" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -168,9 +174,6 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQME0hsN4fWqCC_QtStx-65" target="EQME0hsN4fWqCC_QtStx-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SCMHZvEzq54hfK2paQ5Q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-65" target="EQME0hsN4fWqCC_QtStx-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -181,7 +184,7 @@
           <mxGeometry x="525" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-81" value="贷后管理使用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1285" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1075" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-84" value="要改成" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.44285714285714284;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="687" y="820" width="140" height="110" as="geometry" />
