@@ -162,7 +162,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-56" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-59" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-59" value="1.删除还款计划（如果有）&lt;div&gt;2. 删除台账&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
