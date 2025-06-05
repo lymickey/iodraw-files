@@ -222,7 +222,7 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-84" value="要改成" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.44285714285714284;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="687" y="820" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SCMHZvEzq54hfK2paQ5Q-1" value="估值系统" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SCMHZvEzq54hfK2paQ5Q-1" value="估值系统" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SCMHZvEzq54hfK2paQ5Q-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;临时表1：用来给估值系统&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
