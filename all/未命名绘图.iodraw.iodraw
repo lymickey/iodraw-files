@@ -9,11 +9,17 @@
             <mxPoint x="350" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KKLmkvag_VP5dIZoGM8n-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKLmkvag_VP5dIZoGM8n-2" target="KKLmkvag_VP5dIZoGM8n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-2" value="项目经理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKLmkvag_VP5dIZoGM8n-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKLmkvag_VP5dIZoGM8n-5" value="项目经理&lt;div&gt;部门领导&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
