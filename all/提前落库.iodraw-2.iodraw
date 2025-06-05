@@ -114,7 +114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQME0hsN4fWqCC_QtStx-37" edge="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EQME0hsN4fWqCC_QtStx-37" edge="1" target="SCMHZvEzq54hfK2paQ5Q-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="830" as="targetPoint" />
           </mxGeometry>
@@ -136,11 +136,6 @@
         <mxCell id="EQME0hsN4fWqCC_QtStx-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EQME0hsN4fWqCC_QtStx-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EQME0hsN4fWqCC_QtStx-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-42" value="投资研究部分管副总裁" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
