@@ -162,7 +162,7 @@
         <mxCell id="dPMWIY-HBYmLkwHAm-HP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-46" target="dPMWIY-HBYmLkwHAm-HP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EQME0hsN4fWqCC_QtStx-46" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3. 发送至DataHub&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="EQME0hsN4fWqCC_QtStx-46" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1200" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-56" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -194,7 +194,7 @@
           <mxGeometry x="875" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dPMWIY-HBYmLkwHAm-HP-1" value="估值和B45" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
