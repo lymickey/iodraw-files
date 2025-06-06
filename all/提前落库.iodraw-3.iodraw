@@ -162,6 +162,11 @@
         <mxCell id="dPMWIY-HBYmLkwHAm-HP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EQME0hsN4fWqCC_QtStx-46" target="dPMWIY-HBYmLkwHAm-HP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dPMWIY-HBYmLkwHAm-HP-3" value="DataHub" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dPMWIY-HBYmLkwHAm-HP-2">
+          <mxGeometry x="-0.32" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-46" value="1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1200" width="130" height="110" as="geometry" />
         </mxCell>
