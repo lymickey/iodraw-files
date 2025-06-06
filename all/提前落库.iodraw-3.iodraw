@@ -185,6 +185,11 @@
             <mxPoint x="1100" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dPMWIY-HBYmLkwHAm-HP-5" value="Datahub" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SCMHZvEzq54hfK2paQ5Q-6">
+          <mxGeometry x="0.0333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EQME0hsN4fWqCC_QtStx-65" value="最终台账：&lt;div&gt;1. 生成明细和合并台账&lt;div&gt;2.生成还款计划（如果有）&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1035" y="1150" width="130" height="110" as="geometry" />
         </mxCell>
@@ -194,7 +199,7 @@
         <mxCell id="SCMHZvEzq54hfK2paQ5Q-1" value="估值系统" style="whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SCMHZvEzq54hfK2paQ5Q-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;临时台账：用来给估值系统&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="SCMHZvEzq54hfK2paQ5Q-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;子台账：用来给估值系统&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dPMWIY-HBYmLkwHAm-HP-1" value="估值和B45" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
