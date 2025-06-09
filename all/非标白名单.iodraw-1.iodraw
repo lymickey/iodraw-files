@@ -696,7 +696,7 @@
             <mxPoint x="-9" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-72" value="融资人&lt;div&gt;是否&lt;/div&gt;&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-72" value="融资人&lt;div&gt;是否&lt;/div&gt;&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="720" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-73" target="UbfZ9EV8J17mY2bdcHEx-83">
@@ -704,7 +704,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-85" value="投票结果：&lt;div&gt;出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-84">
           <mxGeometry x="-0.2909" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="21" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-73" value="必须投票：融资人出库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
