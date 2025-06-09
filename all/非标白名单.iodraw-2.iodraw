@@ -659,6 +659,11 @@
         <mxCell id="007zQYQhBzqco84b4l4x-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-63" target="007zQYQhBzqco84b4l4x-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="007zQYQhBzqco84b4l4x-43" value="投票结果：&lt;div&gt;入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="007zQYQhBzqco84b4l4x-39">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-63" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -840,7 +845,7 @@
           <mxGeometry x="1230" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-37" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1430" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
