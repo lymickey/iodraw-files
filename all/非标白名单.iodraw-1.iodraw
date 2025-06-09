@@ -477,10 +477,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-2" value="新项目投票" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-5" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-7" target="Vf_0aepa7vX67eC5UCV3-9">
           <mxGeometry relative="1" as="geometry" />
