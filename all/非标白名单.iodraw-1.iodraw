@@ -457,13 +457,13 @@
         <mxCell id="Vf_0aepa7vX67eC5UCV3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-2" target="Vf_0aepa7vX67eC5UCV3-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="-30" />
+              <mxPoint x="200" y="-30" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意&amp;nbsp;&lt;div&gt;条件同意&lt;/div&gt;&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vf_0aepa7vX67eC5UCV3-8">
           <mxGeometry x="-0.0571" y="2" relative="1" as="geometry">
-            <mxPoint x="37" y="2" as="offset" />
+            <mxPoint x="15" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
