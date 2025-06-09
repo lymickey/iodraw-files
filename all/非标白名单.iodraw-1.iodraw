@@ -476,8 +476,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-7" target="UbfZ9EV8J17mY2bdcHEx-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-7" value="是否有&lt;div&gt;担保人&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="80" height="80" as="geometry" />
@@ -513,9 +515,6 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="-50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
