@@ -760,8 +760,14 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-86" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-93" target="UbfZ9EV8J17mY2bdcHEx-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-93" value="项目要素变更投票&lt;div&gt;（变更事项说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-94" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
