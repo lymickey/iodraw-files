@@ -604,7 +604,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-37" value="投票结果：&lt;div&gt;入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UbfZ9EV8J17mY2bdcHEx-36" vertex="1" connectable="0">
           <mxGeometry x="-0.3436" y="-2" relative="1" as="geometry">
-            <mxPoint x="30" y="-7" as="offset" />
+            <mxPoint x="17" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-28" value="必须投票：融资人入白名单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -800,11 +800,14 @@
         <mxCell id="007zQYQhBzqco84b4l4x-20" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1181" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-22" target="007zQYQhBzqco84b4l4x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-22" value="系统同步：更新&lt;div&gt;白名单额度&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-23" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
