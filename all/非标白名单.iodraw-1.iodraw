@@ -464,7 +464,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UbfZ9EV8J17mY2bdcHEx-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-30" as="sourcePoint" />
+            <mxPoint x="460" y="30" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-2" value="新项目投票" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
