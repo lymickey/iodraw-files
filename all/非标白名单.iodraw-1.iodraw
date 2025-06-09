@@ -744,9 +744,14 @@
             <mxPoint x="1110" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-80">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-80" target="UbfZ9EV8J17mY2bdcHEx-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1070" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-92" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-91">
+          <mxGeometry x="-0.4909" y="-2" relative="1" as="geometry">
+            <mxPoint x="24" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-80" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
