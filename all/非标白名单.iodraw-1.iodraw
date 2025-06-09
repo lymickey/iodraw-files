@@ -500,7 +500,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-21" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-18">
           <mxGeometry x="0.15" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-7" value="是否有&lt;div&gt;担保人&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -530,7 +530,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-26" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-7">
           <mxGeometry x="0.2471" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-1" value="担保人是否&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
