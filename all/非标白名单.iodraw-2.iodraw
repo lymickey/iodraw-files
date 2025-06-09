@@ -554,6 +554,9 @@
             <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="007zQYQhBzqco84b4l4x-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-6" target="007zQYQhBzqco84b4l4x-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-6" value="必须投票：担保人是否入&lt;span style=&quot;background-color: initial;&quot;&gt;白名单&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="995" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -869,6 +872,9 @@
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-58" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1446" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="007zQYQhBzqco84b4l4x-60" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
