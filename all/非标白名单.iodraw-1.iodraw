@@ -658,7 +658,7 @@
             <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-62" value="担保人是否&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-62" value="担保人是否&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="450" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-63" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -693,7 +693,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-71" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-70">
           <mxGeometry x="-0.51" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" y="1" as="offset" />
+            <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-72" value="融资人&lt;div&gt;是否&lt;/div&gt;&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -720,6 +720,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="820" as="sourcePoint" />
             <mxPoint x="682" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="840" />
+              <mxPoint x="683" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-62" target="UbfZ9EV8J17mY2bdcHEx-80">
