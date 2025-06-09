@@ -708,13 +708,13 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-76" value="无需投票：融资人入白名单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="735" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-77" value="无需投票：融资人出库" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-77" value="无需投票：融资人出库" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-72" target="UbfZ9EV8J17mY2bdcHEx-77">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="820" as="sourcePoint" />
-            <mxPoint x="840" y="870" as="targetPoint" />
+            <mxPoint x="682" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-62" target="UbfZ9EV8J17mY2bdcHEx-80">
