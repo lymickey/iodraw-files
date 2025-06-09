@@ -738,7 +738,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-92" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UbfZ9EV8J17mY2bdcHEx-91" vertex="1" connectable="0">
           <mxGeometry x="-0.4909" y="-2" relative="1" as="geometry">
-            <mxPoint x="22" y="-102" as="offset" />
+            <mxPoint x="11" y="-112" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-80" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -803,7 +803,7 @@
           <mxGeometry x="991" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-20" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-22" target="007zQYQhBzqco84b4l4x-23">
           <mxGeometry relative="1" as="geometry" />
@@ -812,7 +812,7 @@
           <mxGeometry x="1231" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-23" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-27" target="007zQYQhBzqco84b4l4x-20">
           <mxGeometry relative="1" as="geometry" />
