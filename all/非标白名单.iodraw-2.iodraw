@@ -723,21 +723,6 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-76" value="无需投票：融资人入白名单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="841" y="805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-62" target="UbfZ9EV8J17mY2bdcHEx-80" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="841" y="570" as="sourcePoint" />
-            <mxPoint x="1181" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="600" />
-              <mxPoint x="780" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-41" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-79">
-          <mxGeometry x="0.3808" relative="1" as="geometry">
-            <mxPoint x="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-80" target="007zQYQhBzqco84b4l4x-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="640" as="targetPoint" />
@@ -748,7 +733,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-92" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UbfZ9EV8J17mY2bdcHEx-91" vertex="1" connectable="0">
           <mxGeometry x="-0.4909" y="-2" relative="1" as="geometry">
-            <mxPoint x="32" y="-2" as="offset" />
+            <mxPoint x="22" y="-102" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-80" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
