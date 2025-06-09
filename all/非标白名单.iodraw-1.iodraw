@@ -763,7 +763,7 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-93" target="UbfZ9EV8J17mY2bdcHEx-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-96" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-95">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-96" value="投票结果：&lt;div&gt;同意、条件同意&lt;div&gt;否决 续议&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-95">
           <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
