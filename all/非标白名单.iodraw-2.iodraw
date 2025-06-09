@@ -612,6 +612,11 @@
         <mxCell id="007zQYQhBzqco84b4l4x-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="70" />
+              <mxPoint x="971" y="70" />
+              <mxPoint x="971" y="40" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-28" value="必须投票：融资人入白名单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -893,7 +898,7 @@
           <mxGeometry x="1220" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-65" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="997" width="120" height="60" as="geometry" />
+          <mxGeometry x="991" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
