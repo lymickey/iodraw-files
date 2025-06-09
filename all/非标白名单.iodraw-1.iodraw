@@ -540,6 +540,9 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-17" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-22" value="融资人&lt;div&gt;是否&lt;/div&gt;&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
