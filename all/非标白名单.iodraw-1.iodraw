@@ -390,7 +390,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-30" value="是否续议" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="170" y="780" width="80" height="80" as="geometry" />
+          <mxGeometry x="150" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="70" height="40" as="geometry" />
@@ -412,10 +412,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8d0XvsDzvTX48WQU0yAq-43" target="8d0XvsDzvTX48WQU0yAq-40" edge="1">
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8d0XvsDzvTX48WQU0yAq-43" target="8d0XvsDzvTX48WQU0yAq-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="950" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="100" y="854" />
               <mxPoint x="100" y="1060" />
             </Array>
           </mxGeometry>
