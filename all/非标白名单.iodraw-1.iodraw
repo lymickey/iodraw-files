@@ -602,12 +602,7 @@
             <mxPoint x="1170" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-44" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-43">
-          <mxGeometry x="-0.0286" y="-2" relative="1" as="geometry">
-            <mxPoint x="-4" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-45" value="无需投票：融资人出库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-45" value="无需投票：担保人出库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
