@@ -493,7 +493,8 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-7" target="UbfZ9EV8J17mY2bdcHEx-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="50" />
+              <mxPoint x="520" y="70" />
+              <mxPoint x="650" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -514,7 +515,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-9" value="投票：担保人项目额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-1" target="UbfZ9EV8J17mY2bdcHEx-4">
           <mxGeometry relative="1" as="geometry" />
@@ -548,7 +549,7 @@
           <mxGeometry x="1040" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-17" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-22" target="UbfZ9EV8J17mY2bdcHEx-23">
           <mxGeometry relative="1" as="geometry" />
