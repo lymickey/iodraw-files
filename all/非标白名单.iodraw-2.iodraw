@@ -620,7 +620,7 @@
           <mxGeometry x="745" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-48" value="投票结果：续议或否决&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="376" y="470" as="geometry" />
+          <mxGeometry x="410" y="525" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-54" target="UbfZ9EV8J17mY2bdcHEx-67" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -882,8 +882,8 @@
             <mxPoint x="290" y="410" as="sourcePoint" />
             <mxPoint x="520" y="935" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="143" />
-              <mxPoint x="280" y="725" />
+              <mxPoint x="500" y="143" />
+              <mxPoint x="500" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
