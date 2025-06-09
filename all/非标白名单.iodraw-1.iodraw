@@ -485,7 +485,7 @@
         <mxCell id="Vf_0aepa7vX67eC5UCV3-9" value="投票：担保人项目额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-1" value="担保人是否&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
