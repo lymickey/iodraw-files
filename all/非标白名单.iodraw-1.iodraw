@@ -642,7 +642,7 @@
             <mxPoint x="8" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-57" value="必须投票：担保人项目额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-57" value="无需投票：担保人项目额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-62" target="UbfZ9EV8J17mY2bdcHEx-63">
