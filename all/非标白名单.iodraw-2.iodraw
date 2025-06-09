@@ -748,7 +748,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-83" target="007zQYQhBzqco84b4l4x-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-83" value="系统同步：&lt;div&gt;出库&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-83" value="系统同步：&lt;div&gt;融资人出库&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-86" target="007zQYQhBzqco84b4l4x-56">
@@ -884,7 +884,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-56" target="007zQYQhBzqco84b4l4x-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-56" value="系统同步：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-56" value="系统同步：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新融资人&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-58" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
