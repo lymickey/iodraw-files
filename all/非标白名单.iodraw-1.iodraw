@@ -536,14 +536,6 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-1" value="担保人是否&lt;div&gt;在白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-150" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-4" target="UbfZ9EV8J17mY2bdcHEx-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-34" value="投票结果：&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UbfZ9EV8J17mY2bdcHEx-33">
-          <mxGeometry x="-0.3642" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-4" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -559,7 +551,7 @@
           <mxGeometry x="850" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-8" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-17" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
@@ -588,9 +580,6 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-28" value="必须投票：融资人入白名单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="145" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-32" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
