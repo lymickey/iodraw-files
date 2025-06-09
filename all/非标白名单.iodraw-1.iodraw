@@ -457,7 +457,7 @@
         <mxCell id="Vf_0aepa7vX67eC5UCV3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vf_0aepa7vX67eC5UCV3-2" target="Vf_0aepa7vX67eC5UCV3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意&amp;nbsp;&lt;div&gt;条件同意&lt;/div&gt;&lt;div&gt;（融资人额度和期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vf_0aepa7vX67eC5UCV3-8">
+        <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意&amp;nbsp;&lt;div&gt;条件同意&lt;/div&gt;&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vf_0aepa7vX67eC5UCV3-8">
           <mxGeometry x="-0.0571" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-2" value="新项目投票" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-5" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
