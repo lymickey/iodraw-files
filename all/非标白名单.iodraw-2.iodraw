@@ -725,9 +725,9 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-80" target="007zQYQhBzqco84b4l4x-35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="640" as="targetPoint" />
+            <mxPoint x="1331" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="660" />
+              <mxPoint x="1451" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -737,7 +737,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-80" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1231" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-83" value="无需投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1091" y="920" width="120" height="60" as="geometry" />
@@ -831,7 +831,7 @@
           <mxGeometry x="1590" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-35" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1461" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-36" target="007zQYQhBzqco84b4l4x-37">
           <mxGeometry relative="1" as="geometry" />
