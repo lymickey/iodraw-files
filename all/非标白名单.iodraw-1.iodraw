@@ -464,7 +464,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意 或 条件同意&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vf_0aepa7vX67eC5UCV3-8">
+        <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意 或 条件同意&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="Vf_0aepa7vX67eC5UCV3-8">
           <mxGeometry x="-0.0571" y="2" relative="1" as="geometry">
             <mxPoint x="26" y="2" as="offset" />
           </mxGeometry>
