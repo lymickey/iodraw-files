@@ -703,7 +703,7 @@
           <mxGeometry x="480" y="720" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-73" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-76" value="无需投票：融资人入白名单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="735" width="120" height="60" as="geometry" />
