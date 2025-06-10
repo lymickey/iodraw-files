@@ -969,8 +969,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-17" target="YL7ab3Yurx0CLxKaW5cY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-17" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="996" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-22" target="007zQYQhBzqco84b4l4x-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1441" y="199.99999999999977" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-22" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="170" width="120" height="60" as="geometry" />
@@ -1092,6 +1100,9 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-32" value="记录投票结果" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2090" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-36" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="255" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
