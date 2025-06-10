@@ -441,8 +441,14 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="8d0XvsDzvTX48WQU0yAq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-3" value="项目要素变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-7" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
