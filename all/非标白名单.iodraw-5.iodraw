@@ -961,8 +961,10 @@
             <mxPoint x="1186" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-17" target="YL7ab3Yurx0CLxKaW5cY-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="285" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-17" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="996" y="255" width="120" height="60" as="geometry" />
@@ -970,14 +972,13 @@
         <mxCell id="007zQYQhBzqco84b4l4x-20" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1425" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-22" target="007zQYQhBzqco84b4l4x-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485.04347826087" y="255" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-22" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-23" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-27" target="007zQYQhBzqco84b4l4x-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1091,14 +1092,8 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-23" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="997" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="265" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-27" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1251" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
