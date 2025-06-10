@@ -908,7 +908,7 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-73" target="YL7ab3Yurx0CLxKaW5cY-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="1700" />
+              <mxPoint x="820" y="1780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1203,9 +1203,12 @@
           <mxGeometry x="1049" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-84" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="980.0041907400113" y="1574" as="geometry">
+          <mxGeometry x="980.0041907400113" y="1660" as="geometry">
             <mxPoint x="-23" y="123" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-85" value="系统同步：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新融资人&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
