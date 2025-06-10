@@ -979,7 +979,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-17" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="996" y="255" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-22" edge="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="007zQYQhBzqco84b4l4x-22" target="007zQYQhBzqco84b4l4x-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1485.04347826087" y="255" as="targetPoint" />
           </mxGeometry>
