@@ -439,7 +439,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOWJEi4nj5whNO8qzAMn-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（实时）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1240" width="80" height="80" as="geometry" />
@@ -492,7 +492,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-20" value="新项目&lt;div&gt;or&lt;/div&gt;&lt;div&gt;项目要素变更&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-20" value="新项目&lt;div&gt;or&lt;/div&gt;&lt;div&gt;项目要素变更&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="335" y="150" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
