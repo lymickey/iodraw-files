@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="azGy2SLE-P63UULfncA0" name="白名单流程">
-    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,6 +545,9 @@
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;实时查询白名单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="938" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="35" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
