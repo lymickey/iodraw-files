@@ -359,6 +359,10 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1145" />
+              <mxPoint x="471" y="1145" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-18" value="上会审议结果录入" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -436,7 +440,7 @@
           <mxGeometry x="260" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1300" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="1320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
