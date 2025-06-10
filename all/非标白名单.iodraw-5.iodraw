@@ -1155,8 +1155,8 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-23" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="999" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-32" value="记入投票结果" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-32" value="记入投票结果:&lt;div&gt;入库&lt;/div&gt;&lt;div&gt;出库&lt;/div&gt;&lt;div&gt;白名单额度&lt;/div&gt;&lt;div&gt;新项目&lt;/div&gt;&lt;div&gt;项目变更&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="80" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-47" target="YL7ab3Yurx0CLxKaW5cY-50">
           <mxGeometry relative="1" as="geometry">
