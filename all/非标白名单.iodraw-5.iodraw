@@ -731,7 +731,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-23">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-23" target="007zQYQhBzqco84b4l4x-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1744" y="150" as="targetPoint" />
           </mxGeometry>
@@ -967,11 +967,6 @@
               <mxPoint x="1056" y="200" />
               <mxPoint x="1241" y="200" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-17" target="007zQYQhBzqco84b4l4x-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1196" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-17" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
