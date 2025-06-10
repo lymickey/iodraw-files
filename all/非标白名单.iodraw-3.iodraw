@@ -293,7 +293,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sZotvsRytkarSsWIDQ6R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="140" width="355" height="280" as="geometry" />
+          <mxGeometry x="-250" y="160" width="355" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -453,10 +453,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-3" value="项目要素变更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-225" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-8" target="8d0XvsDzvTX48WQU0yAq-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sZotvsRytkarSsWIDQ6R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-10">
           <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
@@ -472,10 +474,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-8" value="是否需要上会" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="-55" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-12" value="更新项目要素" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-75" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-1" target="sZotvsRytkarSsWIDQ6R-3">
           <mxGeometry relative="1" as="geometry">
