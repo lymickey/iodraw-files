@@ -904,7 +904,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-73" target="YL7ab3Yurx0CLxKaW5cY-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="1700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-73" value="必须投票：融资人出库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="759" y="1444" width="120" height="60" as="geometry" />
@@ -1204,7 +1208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-81" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="759" y="1584" width="120" height="60" as="geometry" />
+          <mxGeometry x="1039" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
