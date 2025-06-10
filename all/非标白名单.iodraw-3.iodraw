@@ -356,8 +356,10 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-18" target="8d0XvsDzvTX48WQU0yAq-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-18" target="8d0XvsDzvTX48WQU0yAq-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-18" value="上会审议结果录入" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="930" width="120" height="60" as="geometry" />
@@ -398,9 +400,6 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-39" value="无需改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="10" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-40" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-30" target="8d0XvsDzvTX48WQU0yAq-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="820" as="sourcePoint" />
@@ -412,11 +411,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8d0XvsDzvTX48WQU0yAq-43" target="8d0XvsDzvTX48WQU0yAq-40" edge="1">
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.925;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8d0XvsDzvTX48WQU0yAq-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="950" as="targetPoint" />
+            <mxPoint x="410" y="1330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="40" y="1060" />
+              <mxPoint x="60" y="1060" />
+              <mxPoint x="60" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -433,6 +434,9 @@
         </mxCell>
         <mxCell id="KOWJEi4nj5whNO8qzAMn-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（实时）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
