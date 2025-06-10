@@ -1054,7 +1054,7 @@
             <mxPoint x="1459" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-75" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-72">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-75" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-72">
           <mxGeometry x="0.0312" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1065,6 +1065,11 @@
             <Array as="points">
               <mxPoint x="1723" y="1084" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-76" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-74">
+          <mxGeometry x="-0.3836" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-48" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
