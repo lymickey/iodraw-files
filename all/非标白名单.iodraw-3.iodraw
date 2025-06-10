@@ -472,8 +472,14 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-39" target="sZotvsRytkarSsWIDQ6R-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;白名单（额度、出库、入库）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-40" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
