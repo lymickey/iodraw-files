@@ -367,7 +367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-18" value="上会审议结果录入" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-20" width="70" height="40" as="geometry" />
@@ -402,7 +402,7 @@
             <mxPoint x="220" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-36" value="续议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-35">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-36" value="续议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-35">
           <mxGeometry x="-0.6286" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
