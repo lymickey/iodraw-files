@@ -931,9 +931,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-88" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-87">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-88" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-87">
           <mxGeometry x="-0.7619" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-86" value="必须投票：融资人白名单额度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1218,7 +1218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-81" value="填写审批意见" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="1049" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-84" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="970.0041907400113" y="1620" as="geometry">
