@@ -977,7 +977,7 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-38" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="007zQYQhBzqco84b4l4x-19">
           <mxGeometry x="0.2084" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-17" target="007zQYQhBzqco84b4l4x-12">
