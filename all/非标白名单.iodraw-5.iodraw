@@ -976,7 +976,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-1" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-4" value="1.无需投票的事项&lt;div&gt;无需在界面上显示&lt;/div&gt;&lt;div&gt;2. 担保人和融资人必须至少有一个在库&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-4" value="无需投票的事项&lt;div&gt;无需在界面上显示&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="-30" y="920" width="194.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-1" target="007zQYQhBzqco84b4l4x-12" edge="1">
@@ -1079,6 +1079,9 @@
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-36" value="填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1459" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-37" target="YL7ab3Yurx0CLxKaW5cY-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-37" value="(一次性)提交投票&lt;div&gt;结果&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1723" y="1054" width="120" height="60" as="geometry" />
@@ -1249,7 +1252,7 @@
           <mxGeometry x="413" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-96" value="记入投票结果:&lt;div&gt;入库&lt;/div&gt;&lt;div&gt;出库&lt;/div&gt;&lt;div&gt;白名单额度&lt;/div&gt;&lt;div&gt;新项目(项目额度）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="1030" width="120" height="120" as="geometry" />
+          <mxGeometry x="1930" y="1024" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
