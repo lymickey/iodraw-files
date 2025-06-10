@@ -866,7 +866,7 @@
           <mxGeometry x="1224" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-4" value="无需投票的事项&lt;div&gt;无需在界面上显示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="-64.5" y="480" width="194.5" height="30" as="geometry" />
+          <mxGeometry x="-64.5" y="340" width="194.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-8" target="007zQYQhBzqco84b4l4x-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
