@@ -516,7 +516,7 @@
         <mxCell id="Lid4Pj2KV21ZqPIthkdn-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;白名单（查询）&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="465" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;投资综合支持系统&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;(提供额度更新、白名单查询、白名单入库和出库的接口)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;投资综合支持系统&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="460" width="160" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;width=31;endSize=8.62;" edge="1" parent="1">
@@ -561,6 +561,9 @@
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;白名单管理&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="1060" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;白名单管理&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
