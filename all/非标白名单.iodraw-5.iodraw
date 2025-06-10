@@ -1087,7 +1087,7 @@
           <mxGeometry x="1459" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-71" value="投票结果：&lt;div&gt;不入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1185.9999999999995" y="-200.00000000000023" as="geometry">
+          <mxGeometry x="1179.9999999999995" y="-260.0000000000002" as="geometry">
             <mxPoint x="-259" y="404" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1168,11 +1168,6 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-54" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1456" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-62" value="投票结果：&lt;div&gt;入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1205.003684210526" y="750" as="geometry">
-            <mxPoint x="-84" y="-175" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
