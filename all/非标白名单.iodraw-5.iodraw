@@ -1054,9 +1054,12 @@
             <mxPoint x="1459" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-48">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-48" target="007zQYQhBzqco84b4l4x-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1459" y="1084" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1723" y="1084" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-48" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
