@@ -883,8 +883,10 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-72" value="融资人&lt;div&gt;是否&lt;/div&gt;&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="580" y="1314" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-73" target="UbfZ9EV8J17mY2bdcHEx-83" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UbfZ9EV8J17mY2bdcHEx-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039" y="1474" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-85" value="投票结果：&lt;div&gt;出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UbfZ9EV8J17mY2bdcHEx-84" vertex="1" connectable="0">
           <mxGeometry x="-0.2909" y="1" relative="1" as="geometry">
@@ -913,11 +915,11 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-73" value="必须投票：融资人出库" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="759" y="1444" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-83" target="007zQYQhBzqco84b4l4x-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UbfZ9EV8J17mY2bdcHEx-83" value="系统同步：&lt;div&gt;融资人出库&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1039" y="1444" width="120" height="60" as="geometry" />
+        <mxCell id="007zQYQhBzqco84b4l4x-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1159" y="1474" as="sourcePoint" />
+            <mxPoint x="1249" y="1474" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-86" target="007zQYQhBzqco84b4l4x-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1096,9 +1098,6 @@
         <mxCell id="007zQYQhBzqco84b4l4x-53" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="760" y="1329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-54" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1249" y="1444" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-56" target="007zQYQhBzqco84b4l4x-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1211,7 +1210,7 @@
           <mxGeometry x="1039" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-84" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="965.6841907400112" y="1584" as="geometry">
+          <mxGeometry x="980.0041907400113" y="1574" as="geometry">
             <mxPoint x="-23" y="123" as="offset" />
           </mxGeometry>
         </mxCell>
