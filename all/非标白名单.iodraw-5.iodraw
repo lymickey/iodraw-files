@@ -1027,7 +1027,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-36" value="系统同步：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;担保人&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1446" y="895" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-37" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-37" value="(一次性)提交投票&lt;div&gt;结果&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1710" y="895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-48" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1142,8 +1142,14 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-50" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1410.26" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-54" target="YL7ab3Yurx0CLxKaW5cY-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-54" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1410.26" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1456" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-56" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
