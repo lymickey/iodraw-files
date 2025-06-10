@@ -426,8 +426,11 @@
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-26" value="否决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-25">
           <mxGeometry x="-0.4889" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="7" as="offset" />
+            <mxPoint x="24" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-1" target="sZotvsRytkarSsWIDQ6R-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="审议结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1240" width="80" height="80" as="geometry" />
@@ -484,6 +487,9 @@
           <mxGeometry x="335" y="150" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
