@@ -923,12 +923,6 @@
         <mxCell id="007zQYQhBzqco84b4l4x-4" value="1.无需投票的事项&lt;div&gt;无需在界面上显示&lt;/div&gt;&lt;div&gt;2. 担保人和融资人必须至少有一个在库&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="-40" y="440" width="194.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1354" y="-170" as="sourcePoint" />
-            <mxPoint x="1414" y="-170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-1" target="007zQYQhBzqco84b4l4x-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1620" y="-280" as="sourcePoint" />
