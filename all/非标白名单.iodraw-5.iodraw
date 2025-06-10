@@ -547,12 +547,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="1420" as="sourcePoint" />
             <mxPoint x="-10" y="1420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="10" y="1420" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CcGHzi8Sqv2xlDCog5YD-16">
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实时&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CcGHzi8Sqv2xlDCog5YD-16">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
