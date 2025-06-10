@@ -295,7 +295,7 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" width="970" height="1510" as="geometry" />
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="-130" y="280" width="355" height="280" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-1">
