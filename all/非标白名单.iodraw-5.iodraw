@@ -1102,7 +1102,7 @@
           <mxGeometry x="1224" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-19" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1406.2608695652175" y="-219.95652173913027" as="geometry">
+          <mxGeometry x="1515.5308695652175" y="-279.9965217391303" as="geometry">
             <mxPoint x="-242" y="260" as="offset" />
           </mxGeometry>
         </mxCell>
