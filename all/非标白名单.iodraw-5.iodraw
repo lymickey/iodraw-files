@@ -740,9 +740,10 @@
             <mxPoint x="17" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="007zQYQhBzqco84b4l4x-69" edge="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-22" target="007zQYQhBzqco84b4l4x-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="805" y="240" />
               <mxPoint x="805" y="180" />
             </Array>
           </mxGeometry>
@@ -1059,7 +1060,7 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-1" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-5">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-5" target="007zQYQhBzqco84b4l4x-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1890" y="60" as="targetPoint" />
           </mxGeometry>
