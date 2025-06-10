@@ -432,6 +432,11 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-1" target="sZotvsRytkarSsWIDQ6R-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-33" value="同意 or 条件同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-29">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="审议结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1240" width="80" height="80" as="geometry" />
         </mxCell>
