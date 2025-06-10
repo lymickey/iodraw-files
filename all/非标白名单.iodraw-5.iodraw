@@ -546,8 +546,8 @@
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;实时查询白名单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="938" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-27" value="非标管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="35" width="230" height="30" as="geometry" />
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-27" value="非标管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="30" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
