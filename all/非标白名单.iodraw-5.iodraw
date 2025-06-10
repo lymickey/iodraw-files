@@ -759,7 +759,7 @@
             <mxPoint x="17" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="YL7ab3Yurx0CLxKaW5cY-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="805" y="174.99999999999977" as="targetPoint" />
           </mxGeometry>
@@ -1073,7 +1073,7 @@
           <mxGeometry x="1436" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-71" value="投票结果：&lt;div&gt;不入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1161.4999999999995" y="-220.00000000000023" as="geometry">
+          <mxGeometry x="1189.9999999999995" y="-260.0000000000002" as="geometry">
             <mxPoint x="-259" y="404" as="offset" />
           </mxGeometry>
         </mxCell>
