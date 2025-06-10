@@ -515,19 +515,13 @@
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;投资综合支持系统&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;(提供额度更新、白名单查询、白名单入库和出库的接口)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="460" width="120" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="959.5" as="sourcePoint" />
-            <mxPoint x="10" y="959.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1420" as="sourcePoint" />
             <mxPoint x="-50" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;width=46;endSize=10.6;" edge="1" parent="1">
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;width=31;endSize=8.62;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="504" as="sourcePoint" />
             <mxPoint x="10" y="503.5" as="targetPoint" />
@@ -537,6 +531,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;实时&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CcGHzi8Sqv2xlDCog5YD-8">
+          <mxGeometry x="-0.315" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;width=31;endSize=8.62;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="960" as="sourcePoint" />
+            <mxPoint x="20" y="959.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;实时&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CcGHzi8Sqv2xlDCog5YD-10">
           <mxGeometry x="-0.315" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
