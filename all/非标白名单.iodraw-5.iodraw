@@ -1187,7 +1187,7 @@
             <mxPoint x="1381" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-52" value="没投票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-49">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-52" value="不投票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-49">
           <mxGeometry x="-0.2748" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
