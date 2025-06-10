@@ -372,12 +372,6 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（同步）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="1530" as="sourcePoint" />
-            <mxPoint x="270" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-20" width="70" height="40" as="geometry" />
         </mxCell>
