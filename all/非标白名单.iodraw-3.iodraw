@@ -439,9 +439,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOWJEi4nj5whNO8qzAMn-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（实时）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="审议结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="sZotvsRytkarSsWIDQ6R-8">
