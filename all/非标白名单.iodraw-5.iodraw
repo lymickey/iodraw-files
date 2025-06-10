@@ -934,10 +934,10 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-7" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="007zQYQhBzqco84b4l4x-13">
           <mxGeometry x="-0.3413" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-262" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-12" value="记入投票结果：&lt;div&gt;额度和入库&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-12" value="记录投票结果" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1890" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-14" value="记录投票结果" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
