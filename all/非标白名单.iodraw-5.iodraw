@@ -1101,7 +1101,7 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1750" y="80" as="targetPoint" />
+            <mxPoint x="1750" y="110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1750" y="-110" />
               <mxPoint x="1750" y="80" />
@@ -1125,7 +1125,7 @@
           <mxGeometry x="999" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-32" value="记录投票结果" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1900" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
