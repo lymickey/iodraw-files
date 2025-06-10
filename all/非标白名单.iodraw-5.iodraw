@@ -950,9 +950,7 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-93" target="YL7ab3Yurx0CLxKaW5cY-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="1600" />
-              <mxPoint x="440" y="1600" />
-              <mxPoint x="440" y="1540" />
+              <mxPoint x="304" y="1540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1239,7 +1237,7 @@
             <mxPoint x="-23" y="123" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-91" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-91" value="填写审批意见" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
