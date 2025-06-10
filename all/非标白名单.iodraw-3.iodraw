@@ -400,10 +400,10 @@
           <mxGeometry x="150" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="70" height="40" as="geometry" />
+          <mxGeometry x="-220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-39" value="无需改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="10" width="70" height="40" as="geometry" />
+          <mxGeometry x="-130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-30" target="8d0XvsDzvTX48WQU0yAq-43" edge="1">
           <mxGeometry relative="1" as="geometry">
