@@ -356,21 +356,6 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-16" value="投票:&lt;div&gt;新项目或要素变更&lt;/div&gt;&lt;div&gt;两个事项&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.442;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sZotvsRytkarSsWIDQ6R-1" target="8d0XvsDzvTX48WQU0yAq-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1000" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="1280" />
-              <mxPoint x="180" y="680" />
-              <mxPoint x="183" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-27" value="续议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8d0XvsDzvTX48WQU0yAq-31">
-          <mxGeometry x="-0.4941" y="2" relative="1" as="geometry">
-            <mxPoint x="72" y="74" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.5" y="1130" as="sourcePoint" />
@@ -440,6 +425,11 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-33" value="同意 or 条件同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-29">
           <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="审议结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
