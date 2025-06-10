@@ -441,11 +441,17 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sZotvsRytkarSsWIDQ6R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="8d0XvsDzvTX48WQU0yAq-6">
+        <mxCell id="sZotvsRytkarSsWIDQ6R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="sZotvsRytkarSsWIDQ6R-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-3" value="项目要素变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-8" target="8d0XvsDzvTX48WQU0yAq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-8" value="是否需要上会" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
