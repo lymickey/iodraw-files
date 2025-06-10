@@ -359,11 +359,15 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.442;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sZotvsRytkarSsWIDQ6R-1" target="8d0XvsDzvTX48WQU0yAq-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1280" />
+              <mxPoint x="170" y="671" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-27" value="续议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="8d0XvsDzvTX48WQU0yAq-31">
           <mxGeometry x="-0.4941" y="2" relative="1" as="geometry">
-            <mxPoint x="84" y="-2" as="offset" />
+            <mxPoint x="72" y="74" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
