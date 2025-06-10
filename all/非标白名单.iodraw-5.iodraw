@@ -1137,7 +1137,7 @@
             <mxPoint x="1950" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-1" value="评委评委评委评委评委评委评委评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-1" value="评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1216" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-5" target="007zQYQhBzqco84b4l4x-12">
@@ -1145,7 +1145,7 @@
             <mxPoint x="1890" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-5" value="评委评委评委评委评委评委评委评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-5" value="评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1496" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-14">
@@ -1157,7 +1157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-14" value="评委评委评委评委评委评委评委评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-14" value="评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1224" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-19" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="1">
@@ -1170,7 +1170,7 @@
             <mxPoint x="1196" y="149.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-23" value="评委评委评委评委评委评委评委评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-23" value="评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="999" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-47" target="YL7ab3Yurx0CLxKaW5cY-50">
