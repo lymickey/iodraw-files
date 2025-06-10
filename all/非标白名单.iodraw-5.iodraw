@@ -1132,6 +1132,11 @@
             <mxPoint x="1281" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-55" value="不入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YL7ab3Yurx0CLxKaW5cY-53">
+          <mxGeometry x="-0.1067" y="-3" relative="1" as="geometry">
+            <mxPoint x="13" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-47" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;没有投票&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;或者&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;投票结果：不入库&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="530" width="80" height="80" as="geometry" />
         </mxCell>
