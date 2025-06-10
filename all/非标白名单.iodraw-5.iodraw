@@ -834,6 +834,9 @@
             <mxPoint x="36" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-63" target="YL7ab3Yurx0CLxKaW5cY-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-63" value="必须投票：担保人出库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1024" y="1054" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1171,6 +1174,9 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-65" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1259" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-66" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="914" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
