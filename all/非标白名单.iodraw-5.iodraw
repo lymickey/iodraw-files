@@ -1196,7 +1196,7 @@
           <mxGeometry x="1169" y="1044" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-80" value="投票结果：续议或否决&lt;div&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470" y="1635.15" as="geometry">
+          <mxGeometry x="460" y="1820" as="geometry">
             <mxPoint x="-19" y="-466" as="offset" />
           </mxGeometry>
         </mxCell>
