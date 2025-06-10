@@ -1092,14 +1092,13 @@
         <mxCell id="007zQYQhBzqco84b4l4x-53" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="760" y="1329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-56" target="007zQYQhBzqco84b4l4x-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="007zQYQhBzqco84b4l4x-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1469" y="1574" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-56" value="系统同步：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新融资人&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1249" y="1544" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-58" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1469" y="1544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-71" value="投票结果：&lt;div&gt;不入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1179.9999999999995" y="-260.0000000000002" as="geometry">
@@ -1201,7 +1200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-81" value="填写审批意见" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1049" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-84" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="980.0041907400113" y="1574" as="geometry">
