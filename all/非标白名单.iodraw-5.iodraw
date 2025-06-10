@@ -1207,8 +1207,13 @@
             <mxPoint x="-19" y="-466" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-81" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-81" value="填写审批意见" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1039" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-84" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="965.6841907400112" y="1584" as="geometry">
+            <mxPoint x="-23" y="123" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
