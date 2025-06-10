@@ -376,7 +376,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOWJEi4nj5whNO8qzAMn-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;白名单（实时查询）&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sZotvsRytkarSsWIDQ6R-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -470,7 +470,7 @@
           <mxGeometry x="160" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;白名单同步:额度更新、出库、入库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-43" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="610" y="1160" width="120" height="60" as="geometry" />
@@ -510,7 +510,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lid4Pj2KV21ZqPIthkdn-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;白名单（实时查询）&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="465" width="110" height="70" as="geometry" />
+          <mxGeometry x="20" y="465" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
