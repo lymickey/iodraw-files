@@ -589,7 +589,7 @@
         </mxCell>
         <mxCell id="Vf_0aepa7vX67eC5UCV3-13" value="投票结果：同意 或 条件同意&lt;div style=&quot;font-size: 13px;&quot;&gt;（项目额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3333;fontSize=13;" parent="Vf_0aepa7vX67eC5UCV3-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0571" y="2" relative="1" as="geometry">
-            <mxPoint x="-47" y="62" as="offset" />
+            <mxPoint x="19" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" target="UbfZ9EV8J17mY2bdcHEx-22" edge="1">
@@ -766,7 +766,7 @@
           <mxGeometry x="745" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-48" value="投票结果：续议或否决&lt;div style=&quot;font-size: 13px;&quot;&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;fontSize=13;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="1160" as="geometry">
+          <mxGeometry x="290" y="1550" as="geometry">
             <mxPoint x="-19" y="-466" as="offset" />
           </mxGeometry>
         </mxCell>
