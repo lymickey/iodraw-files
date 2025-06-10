@@ -1246,7 +1246,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-91" value="填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1510" width="120" height="60" as="geometry" />
+          <mxGeometry x="413" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
