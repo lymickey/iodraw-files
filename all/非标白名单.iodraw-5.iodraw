@@ -1196,7 +1196,7 @@
           <mxGeometry x="1259" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-68" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1230.0021052631585" y="1090" as="geometry">
+          <mxGeometry x="1241.0021052631585" y="1094" as="geometry">
             <mxPoint x="-46" y="-114" as="offset" />
           </mxGeometry>
         </mxCell>
