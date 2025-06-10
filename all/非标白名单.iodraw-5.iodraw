@@ -743,8 +743,8 @@
         <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="007zQYQhBzqco84b4l4x-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="255" />
-              <mxPoint x="615" y="180" />
+              <mxPoint x="800" y="255" />
+              <mxPoint x="800" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1045,7 +1045,7 @@
           <mxGeometry x="995" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-71" value="投票结果：&lt;div&gt;不入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1161.4999999999995" y="-378.0000000000002" as="geometry">
+          <mxGeometry x="1161.4999999999995" y="-220.00000000000023" as="geometry">
             <mxPoint x="-259" y="404" as="offset" />
           </mxGeometry>
         </mxCell>
