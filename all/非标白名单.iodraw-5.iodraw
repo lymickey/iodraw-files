@@ -759,11 +759,13 @@
             <mxPoint x="17" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="YL7ab3Yurx0CLxKaW5cY-23" edge="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="YL7ab3Yurx0CLxKaW5cY-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="255" />
               <mxPoint x="800" y="150" />
+              <mxPoint x="1059" y="150" />
+              <mxPoint x="1059" y="155" />
             </Array>
             <mxPoint x="980" y="150" as="targetPoint" />
           </mxGeometry>
@@ -1123,7 +1125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-23" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="996" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="999" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-32" value="记录投票结果" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2090" y="80" width="120" height="60" as="geometry" />
