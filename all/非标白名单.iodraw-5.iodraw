@@ -807,7 +807,7 @@
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-61" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="UbfZ9EV8J17mY2bdcHEx-60" vertex="1" connectable="0">
           <mxGeometry x="0.2471" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" y="-1" as="offset" />
+            <mxPoint x="96" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-62" value="担保人是否&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -1196,7 +1196,7 @@
           <mxGeometry x="1259" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-68" value="投票结果：&lt;div&gt;不出库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1241.0021052631585" y="1094" as="geometry">
+          <mxGeometry x="1241.0021052631585" y="1084" as="geometry">
             <mxPoint x="-46" y="-114" as="offset" />
           </mxGeometry>
         </mxCell>
