@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tp2W8eWHQIqtyU2i49Vq" name="投票规则">
-    <mxGraphModel dx="3434" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -766,7 +766,7 @@
           <mxGeometry x="745" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-48" value="投票结果：续议或否决&lt;div style=&quot;font-size: 13px;&quot;&gt;（融资人额度和项目期限）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;fontSize=13;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="460" y="1625.15" as="geometry">
+          <mxGeometry x="310" y="1160" as="geometry">
             <mxPoint x="-19" y="-466" as="offset" />
           </mxGeometry>
         </mxCell>
