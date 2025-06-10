@@ -979,7 +979,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-27" target="007zQYQhBzqco84b4l4x-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-27" value="系统同步：&lt;div&gt;更新融资人&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-27" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1236" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-30" target="007zQYQhBzqco84b4l4x-31" edge="1">
@@ -1090,6 +1090,9 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
