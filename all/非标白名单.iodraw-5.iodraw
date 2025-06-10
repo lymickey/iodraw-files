@@ -947,6 +947,9 @@
             <mxPoint x="20" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-93" target="YL7ab3Yurx0CLxKaW5cY-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-93" value="项目要素变更投票&lt;div&gt;（变更事项说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="244" y="1625.15" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1229,6 +1232,9 @@
           <mxGeometry x="970.0041907400113" y="1580" as="geometry">
             <mxPoint x="-23" y="123" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-91" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1484" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
