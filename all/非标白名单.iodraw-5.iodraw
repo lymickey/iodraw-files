@@ -1032,7 +1032,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-30" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-31" edge="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="007zQYQhBzqco84b4l4x-31" target="007zQYQhBzqco84b4l4x-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1770" y="890" as="targetPoint" />
           </mxGeometry>
