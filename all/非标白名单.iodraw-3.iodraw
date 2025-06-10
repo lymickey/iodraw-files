@@ -450,8 +450,19 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-8" target="8d0XvsDzvTX48WQU0yAq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-10">
+          <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-8" target="sZotvsRytkarSsWIDQ6R-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-8" value="是否需要上会" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sZotvsRytkarSsWIDQ6R-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
