@@ -369,7 +369,7 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-18" value="上会审议结果录入" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（同步）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;白名单（额度、出库、入库）&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
