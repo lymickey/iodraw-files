@@ -907,9 +907,6 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-94" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="545" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-1" target="007zQYQhBzqco84b4l4x-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="007zQYQhBzqco84b4l4x-1" target="YL7ab3Yurx0CLxKaW5cY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -924,12 +921,6 @@
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-8" value="系统同步：&lt;div&gt;更新担保人&lt;span style=&quot;background-color: initial;&quot;&gt;白名单额度&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1234" y="-200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="007zQYQhBzqco84b4l4x-10" target="007zQYQhBzqco84b4l4x-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-10" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;记入投票结果：&lt;/span&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;额度和入库&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="007zQYQhBzqco84b4l4x-12" value="记入投票结果：&lt;div&gt;额度和入库&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1760" y="-310" width="120" height="60" as="geometry" />
@@ -1037,7 +1028,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-75" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1236" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-1" value="填写不入库意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-1" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-5" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
