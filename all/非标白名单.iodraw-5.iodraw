@@ -759,15 +759,9 @@
             <mxPoint x="17" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28" target="YL7ab3Yurx0CLxKaW5cY-23" edge="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-28">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="800" y="255" />
-              <mxPoint x="800" y="150" />
-              <mxPoint x="1059" y="150" />
-              <mxPoint x="1059" y="155" />
-            </Array>
-            <mxPoint x="980" y="150" as="targetPoint" />
+            <mxPoint x="805" y="174.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-28" value="必须投票：融资人入白名单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
