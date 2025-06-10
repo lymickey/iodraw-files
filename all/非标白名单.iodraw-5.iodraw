@@ -658,7 +658,7 @@
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-1" value="担保人是否&lt;div&gt;在白名单?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="731" y="-60" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="007zQYQhBzqco84b4l4x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-4" edge="1">
+        <mxCell id="007zQYQhBzqco84b4l4x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-4" target="007zQYQhBzqco84b4l4x-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="80" as="targetPoint" />
           </mxGeometry>
@@ -1069,7 +1069,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-75" value="结束" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1226" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-1" target="007zQYQhBzqco84b4l4x-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="80" as="targetPoint" />
           </mxGeometry>
@@ -1087,7 +1087,7 @@
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1950" y="80" as="targetPoint" />
+            <mxPoint x="1750" y="80" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1750" y="-110" />
               <mxPoint x="1750" y="80" />
