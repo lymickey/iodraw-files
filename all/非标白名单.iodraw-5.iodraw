@@ -663,6 +663,11 @@
             <mxPoint x="1234" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-4" target="YL7ab3Yurx0CLxKaW5cY-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-4" value="必须投票：担保人白名单额度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="995" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
