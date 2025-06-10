@@ -1192,9 +1192,6 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-54" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1456" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7ab3Yurx0CLxKaW5cY-65" target="007zQYQhBzqco84b4l4x-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-65" value="填写审批意见" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1259" y="950" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1202,6 +1199,9 @@
           <mxGeometry x="1230.0021052631585" y="1090" as="geometry">
             <mxPoint x="-46" y="-114" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-79" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;投票结果：&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;不出库&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1044" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
