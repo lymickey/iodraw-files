@@ -527,10 +527,13 @@
             <mxPoint x="-50" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=30;endSize=5.33;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-50" y="490" as="sourcePoint" />
             <mxPoint x="10" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-7" value="实时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CcGHzi8Sqv2xlDCog5YD-4">
