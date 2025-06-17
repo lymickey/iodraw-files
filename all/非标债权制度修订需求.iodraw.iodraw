@@ -204,18 +204,14 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-91" value="发起上会审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-93" target="MR6w9daRh7asf97DqLCc-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-93" value="投票" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-98" target="MR6w9daRh7asf97DqLCc-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="1065" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-98" value="投票" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
