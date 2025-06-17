@@ -159,11 +159,17 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-79" target="MR6w9daRh7asf97DqLCc-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-79" target="MR6w9daRh7asf97DqLCc-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-79" value="融资人在白名单且申报规模小于融资人白名单额度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-80" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="MR6w9daRh7asf97DqLCc-80" value="上传尽调报告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-82" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="355" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
