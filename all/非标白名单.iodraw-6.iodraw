@@ -424,11 +424,6 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="sZotvsRytkarSsWIDQ6R-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-17" value="沿用&lt;div&gt;现在的&lt;/div&gt;&lt;div&gt;审批环节&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-9">
-          <mxGeometry x="0.325" y="2" relative="1" as="geometry">
-            <mxPoint x="16" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="77DmEuNSHg2yuSoqbhTs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
