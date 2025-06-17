@@ -318,10 +318,15 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-151" value="运营划款" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MR6w9daRh7asf97DqLCc-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20;endSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="1860" as="sourcePoint" />
-            <mxPoint x="580" y="1940" as="targetPoint" />
+            <mxPoint x="619.5" y="1850" as="sourcePoint" />
+            <mxPoint x="619.5" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MR6w9daRh7asf97DqLCc-152">
+          <mxGeometry x="0.25" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
