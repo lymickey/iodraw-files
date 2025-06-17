@@ -230,8 +230,11 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-115" value="上会要素录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-120" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MR6w9daRh7asf97DqLCc-120" value="白名单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-122" value="白名单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
