@@ -156,6 +156,9 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-78" value="项目立项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-79" value="融资人在白名单且申报规模小于融资人白名单额度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
