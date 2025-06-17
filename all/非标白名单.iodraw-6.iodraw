@@ -576,7 +576,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-9" value="是否需要&lt;div&gt;发起投票&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="660" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-13">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-14" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="740" as="sourcePoint" />
             <mxPoint x="1010" y="830" as="targetPoint" />
