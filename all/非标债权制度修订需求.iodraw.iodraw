@@ -260,22 +260,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-129" value="投资经理下单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-131" target="MR6w9daRh7asf97DqLCc-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-131" value="t投资部门领导审批" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-133" target="MR6w9daRh7asf97DqLCc-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-133" value="风控监测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-135" target="MR6w9daRh7asf97DqLCc-137">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-135" value="投资分管领导&lt;div&gt;审批&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="825" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-137" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
