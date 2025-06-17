@@ -38,13 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-13" value="研究部经办和总经理审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-14" target="MR6w9daRh7asf97DqLCc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-14" value="分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-16" target="MR6w9daRh7asf97DqLCc-19">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-46" value="成立申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
