@@ -163,13 +163,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-79" value="融资人在白名单且申报规模小于融资人白名单额度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="440" width="130" height="130" as="geometry" />
+          <mxGeometry x="605" y="420" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-80" value="上传尽调报告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-82" value="不上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="475" width="120" height="60" as="geometry" />
+        <mxCell id="MR6w9daRh7asf97DqLCc-82" value="不上传尽调报告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-85" value="项目经理填报立项申请表&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="330" width="120" height="60" as="geometry" />
