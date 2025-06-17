@@ -112,7 +112,7 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-63" target="MR6w9daRh7asf97DqLCc-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-63" value="分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="MR6w9daRh7asf97DqLCc-63" value="分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="615" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-65" target="MR6w9daRh7asf97DqLCc-67">
