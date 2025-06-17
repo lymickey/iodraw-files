@@ -227,6 +227,9 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-113" value="上会审批和投票" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-115" target="MR6w9daRh7asf97DqLCc-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-115" value="上会要素录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -234,7 +237,7 @@
           <mxGeometry x="50" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-122" value="白名单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="890" width="120" height="80" as="geometry" />
+          <mxGeometry x="790" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
