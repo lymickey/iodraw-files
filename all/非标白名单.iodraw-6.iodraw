@@ -320,8 +320,8 @@
             <mxPoint x="610" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8d0XvsDzvTX48WQU0yAq-7" value="项目立项:&lt;div&gt;(融资人在白名单：&quot;可豁免提交项目尽职调查表&quot;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="8d0XvsDzvTX48WQU0yAq-7" value="项目立项:&lt;div&gt;(融资人在白名单：&quot;可豁免提交项目尽职调查表&quot;)&lt;/div&gt;&lt;div&gt;-&lt;span style=&quot;background-color: initial;&quot;&gt;(删除分管领导审批）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-9" target="8d0XvsDzvTX48WQU0yAq-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -537,6 +537,9 @@
         <mxCell id="Lid4Pj2KV21ZqPIthkdn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CcGHzi8Sqv2xlDCog5YD-1" target="8d0XvsDzvTX48WQU0yAq-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-47" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-25" value="&lt;span style=&quot;font-size: 15px; background-color: rgb(251, 251, 251);&quot;&gt;实时查询白名单&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="Lid4Pj2KV21ZqPIthkdn-2" vertex="1" connectable="0">
