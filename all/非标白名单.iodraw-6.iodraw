@@ -570,7 +570,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部：&lt;div&gt;上会评审判断&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-20">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-21" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-9" value="是否需要&lt;div&gt;发起投票&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
@@ -588,11 +588,17 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-13" value="投票：&lt;div&gt;项目要素变更说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-15" target="77DmEuNSHg2yuSoqbhTs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-15" value="上传上会材料，并录入审批结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-20" value="上传评审意见" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-22" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
