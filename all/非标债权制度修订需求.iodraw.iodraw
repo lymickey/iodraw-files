@@ -40,8 +40,8 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-14" value="分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-16" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="MR6w9daRh7asf97DqLCc-16" value="成立申请" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-18" value="项目经理所在部门&lt;div&gt;总经理审批&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="120" height="60" as="geometry" />
