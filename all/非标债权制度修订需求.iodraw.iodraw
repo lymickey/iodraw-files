@@ -159,8 +159,18 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-79" target="MR6w9daRh7asf97DqLCc-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MR6w9daRh7asf97DqLCc-81">
+          <mxGeometry x="-0.16" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-79" target="MR6w9daRh7asf97DqLCc-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-86" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MR6w9daRh7asf97DqLCc-83">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-79" value="融资人在白名单且申报规模小于融资人白名单额度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="420" width="130" height="130" as="geometry" />
