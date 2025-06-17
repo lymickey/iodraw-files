@@ -568,7 +568,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-1" value="资产创设部门或分行提交要素变更" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部：&lt;div&gt;发起上会评审&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
