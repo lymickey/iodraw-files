@@ -83,7 +83,7 @@
           <mxGeometry x="230" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="350" height="570" as="geometry" />
+          <mxGeometry x="590" y="280" width="330" height="570" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="890" width="180" height="210" as="geometry" />
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-59" value="项目营销" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-63" target="MR6w9daRh7asf97DqLCc-65">
           <mxGeometry relative="1" as="geometry" />
