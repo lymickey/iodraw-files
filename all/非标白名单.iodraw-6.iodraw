@@ -611,6 +611,9 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-22" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="968" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-26" value="风险审查&lt;div&gt;(删除分管领导审批）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
