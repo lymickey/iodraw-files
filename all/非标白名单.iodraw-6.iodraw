@@ -585,7 +585,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-13" target="77DmEuNSHg2yuSoqbhTs-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-13" value="投票：&lt;div&gt;项目要素变更&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-13" value="投票：&lt;div&gt;项目要素变更说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-15" value="上传上会材料，并录入审批结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
