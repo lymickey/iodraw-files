@@ -11,7 +11,7 @@
           <mxGeometry x="230" y="570" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="980" width="180" height="400" as="geometry" />
+          <mxGeometry x="227.5" y="980" width="180" height="400" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-1" target="MR6w9daRh7asf97DqLCc-6">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="247.5" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-46" value="成立申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-48" value="风险审查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="60" height="30" as="geometry" />
