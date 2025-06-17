@@ -56,16 +56,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-19" value="各级领导审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-21" target="MR6w9daRh7asf97DqLCc-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-21" value="研究部分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-23" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-26" target="MR6w9daRh7asf97DqLCc-28">
           <mxGeometry relative="1" as="geometry" />
