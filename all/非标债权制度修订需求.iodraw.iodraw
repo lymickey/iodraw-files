@@ -159,7 +159,7 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-79" target="MR6w9daRh7asf97DqLCc-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MR6w9daRh7asf97DqLCc-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MR6w9daRh7asf97DqLCc-81">
+        <mxCell id="MR6w9daRh7asf97DqLCc-87" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MR6w9daRh7asf97DqLCc-81">
           <mxGeometry x="-0.16" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-82" value="不上传尽调报告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-85" target="MR6w9daRh7asf97DqLCc-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MR6w9daRh7asf97DqLCc-85" value="项目经理填报立项申请表&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="330" width="120" height="60" as="geometry" />
