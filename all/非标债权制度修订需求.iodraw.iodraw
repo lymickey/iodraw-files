@@ -215,6 +215,20 @@
         <mxCell id="MR6w9daRh7asf97DqLCc-98" value="上会要素录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MR6w9daRh7asf97DqLCc-109" target="MR6w9daRh7asf97DqLCc-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-109" value="上会审批和投票" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MR6w9daRh7asf97DqLCc-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR6w9daRh7asf97DqLCc-111" value="上会要素录入" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
