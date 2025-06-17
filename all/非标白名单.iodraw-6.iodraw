@@ -296,7 +296,7 @@
           <mxGeometry x="190" y="30" width="1110" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
-          <mxGeometry x="750" y="300" width="355" height="670" as="geometry" />
+          <mxGeometry x="740" y="300" width="365" height="670" as="geometry" />
         </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -424,14 +424,9 @@
         <mxCell id="sZotvsRytkarSsWIDQ6R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="sZotvsRytkarSsWIDQ6R-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-17" value="沿用&lt;div&gt;现在的审批环节&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-9">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-17" value="沿用&lt;div&gt;现在的&lt;/div&gt;&lt;div&gt;审批环节&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-9">
           <mxGeometry x="0.325" y="2" relative="1" as="geometry">
             <mxPoint x="16" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sZotvsRytkarSsWIDQ6R-9">
-          <mxGeometry x="-0.12" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZotvsRytkarSsWIDQ6R-3" target="77DmEuNSHg2yuSoqbhTs-1">
