@@ -568,15 +568,10 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-5" target="77DmEuNSHg2yuSoqbhTs-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部：&lt;div&gt;发起上会评审&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部：&lt;div&gt;发起上会评审&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-9" value="是否需要&lt;div&gt;发起投票&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-9" value="是否需要&lt;div&gt;发起投票&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-13">
@@ -585,7 +580,7 @@
             <mxPoint x="1010" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-13" value="投票：&lt;div&gt;项目要素变更&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-13" value="投票：&lt;div&gt;项目要素变更&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
