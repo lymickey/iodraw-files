@@ -763,7 +763,7 @@
             <mxPoint x="1055" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bYf6wKlpSC7zH8Mq0JMu-2">
+        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#db4848;" vertex="1" connectable="0" parent="bYf6wKlpSC7zH8Mq0JMu-2">
           <mxGeometry x="-0.3581" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
