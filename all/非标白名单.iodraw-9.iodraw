@@ -758,7 +758,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-6" target="UbfZ9EV8J17mY2bdcHEx-28">
+        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeWidth=3;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-6" target="UbfZ9EV8J17mY2bdcHEx-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1055" y="-120" as="targetPoint" />
           </mxGeometry>
