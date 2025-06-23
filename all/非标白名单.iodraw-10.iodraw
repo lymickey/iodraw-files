@@ -292,6 +292,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="130" width="260" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="160" width="550" height="820" as="geometry" />
         </mxCell>
@@ -667,8 +670,8 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-40" value="拉起贷后检查流程" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2008" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-44" value="提醒做贷后检查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="130" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
