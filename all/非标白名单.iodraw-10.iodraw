@@ -590,8 +590,14 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-5" value="事务性和非事务性专项审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-9" target="vF0vdzFtiF5Ralh_pnZK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-9" value="项目经理/分行发起" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
