@@ -625,8 +625,14 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-25" value="项目经理总经理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-27" target="vF0vdzFtiF5Ralh_pnZK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-27" value="投资研究部经办人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-29" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="835" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
