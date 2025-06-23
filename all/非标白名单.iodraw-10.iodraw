@@ -646,26 +646,29 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-34" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-35" target="vF0vdzFtiF5Ralh_pnZK-36">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-35" target="vF0vdzFtiF5Ralh_pnZK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-35" value="每日触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-35" value="每日触发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2008" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-39" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-36" target="vF0vdzFtiF5Ralh_pnZK-38">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-39" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-36" target="vF0vdzFtiF5Ralh_pnZK-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-36" value="当前日期&amp;gt;=起息日+60" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-36" value="当前日期&amp;gt;=起息日+60" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2008" y="260" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-38" target="vF0vdzFtiF5Ralh_pnZK-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-38" value="派发任务提醒分行或者项目经理做贷后检查" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-38" value="派发任务提醒分行或者项目经理做贷后检查" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=12 12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2008" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-40" value="拉起贷后检查流程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-40" value="拉起贷后检查流程" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2008" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
