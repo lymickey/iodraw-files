@@ -549,7 +549,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77DmEuNSHg2yuSoqbhTs-15" target="77DmEuNSHg2yuSoqbhTs-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-15" value="上传上会材料和，并录入审批结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-15" value="上传上会材料，并录入审批结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="77DmEuNSHg2yuSoqbhTs-20" target="77DmEuNSHg2yuSoqbhTs-22" edge="1">
@@ -562,7 +562,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-20" value="填写评审意见" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-20" value="录入审批结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-22" target="vF0vdzFtiF5Ralh_pnZK-2">
