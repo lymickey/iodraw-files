@@ -599,11 +599,23 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-13" target="vF0vdzFtiF5Ralh_pnZK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-13" target="vF0vdzFtiF5Ralh_pnZK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-13" value="分行？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-15" value="分行领导审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-15" target="vF0vdzFtiF5Ralh_pnZK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-15" value="分行部门审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-17" value="分行行长审批" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
