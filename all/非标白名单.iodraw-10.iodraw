@@ -618,7 +618,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Tp2W8eWHQIqtyU2i49Vq" name="投票规则">
+  <diagram id="Tp2W8eWHQIqtyU2i49Vq" name="投票规则（新制度和白名单制度）">
     <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -758,12 +758,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeWidth=5;" edge="1" parent="1" source="UbfZ9EV8J17mY2bdcHEx-6" target="UbfZ9EV8J17mY2bdcHEx-28">
+        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;strokeWidth=5;" parent="1" source="UbfZ9EV8J17mY2bdcHEx-6" target="UbfZ9EV8J17mY2bdcHEx-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1055" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#db4848;" vertex="1" connectable="0" parent="bYf6wKlpSC7zH8Mq0JMu-2">
+        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#db4848;" parent="bYf6wKlpSC7zH8Mq0JMu-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3581" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
