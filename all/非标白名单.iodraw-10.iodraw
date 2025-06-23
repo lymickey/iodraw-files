@@ -565,7 +565,7 @@
         <mxCell id="77DmEuNSHg2yuSoqbhTs-20" value="上传评审意见" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-22" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
+        <mxCell id="77DmEuNSHg2yuSoqbhTs-22" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
