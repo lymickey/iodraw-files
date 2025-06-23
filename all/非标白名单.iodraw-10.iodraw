@@ -292,6 +292,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="160" width="550" height="820" as="geometry" />
+        </mxCell>
         <mxCell id="sZotvsRytkarSsWIDQ6R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="335" height="810" as="geometry" />
         </mxCell>
@@ -640,8 +643,8 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-31" value="结束（删除严总）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1330" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
