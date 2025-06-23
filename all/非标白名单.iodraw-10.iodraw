@@ -574,6 +574,9 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-2" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-5" value="事务性和非事务性专项审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
