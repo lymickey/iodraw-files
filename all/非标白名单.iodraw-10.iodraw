@@ -596,8 +596,8 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-9" value="项目经理/分行发起" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-11" value="分行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
