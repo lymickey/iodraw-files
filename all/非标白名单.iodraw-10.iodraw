@@ -658,8 +658,14 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-36" value="当前日期&amp;gt;=起息日+60" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="260" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-38" target="vF0vdzFtiF5Ralh_pnZK-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-38" value="派发任务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-40" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2008" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
