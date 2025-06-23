@@ -646,8 +646,14 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-34" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="160" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF0vdzFtiF5Ralh_pnZK-35" target="vF0vdzFtiF5Ralh_pnZK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-35" value="每日触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-36" value="当前日期=起息日+60" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
