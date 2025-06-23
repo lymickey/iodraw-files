@@ -524,7 +524,7 @@
           <mxGeometry x="45" y="938" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-27" value="非标管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="30" width="230" height="30" as="geometry" />
+          <mxGeometry x="1011" y="35" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-1" target="77DmEuNSHg2yuSoqbhTs-5">
           <mxGeometry relative="1" as="geometry" />
@@ -644,7 +644,7 @@
           <mxGeometry x="1330" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-34" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="1750" y="160" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
