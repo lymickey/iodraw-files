@@ -320,6 +320,11 @@
             <mxPoint x="610" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-7" value="项目立项:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(删除分管领导审批）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="470" width="120" height="80" as="geometry" />
         </mxCell>
@@ -575,7 +580,7 @@
           <mxGeometry x="950" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-5" value="事务性和非事务性专项审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
