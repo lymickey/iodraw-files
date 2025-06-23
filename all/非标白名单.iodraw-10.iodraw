@@ -516,10 +516,8 @@
         <mxCell id="CcGHzi8Sqv2xlDCog5YD-27" value="非标管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="590" y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77DmEuNSHg2yuSoqbhTs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77DmEuNSHg2yuSoqbhTs-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="570" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-1" target="77DmEuNSHg2yuSoqbhTs-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-1" value="资产创设部门或分行提交要素变更" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="440" width="120" height="60" as="geometry" />
@@ -528,13 +526,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部经办岗：&lt;div&gt;上会评审判断&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-21" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-9" value="是否需要&lt;div&gt;发起投票&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="970" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="970" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-14" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -563,7 +561,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-20" value="上传评审意见" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="790" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="77DmEuNSHg2yuSoqbhTs-22" target="vF0vdzFtiF5Ralh_pnZK-2">
           <mxGeometry relative="1" as="geometry" />
