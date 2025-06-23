@@ -528,7 +528,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-5" value="投资研究部经办岗：&lt;div&gt;上会评审判断&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77DmEuNSHg2yuSoqbhTs-21" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="77DmEuNSHg2yuSoqbhTs-9" target="77DmEuNSHg2yuSoqbhTs-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
