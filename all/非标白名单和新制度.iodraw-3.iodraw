@@ -1384,8 +1384,8 @@
         <mxCell id="A5WY1MWTvYZ5lIulo18j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="A5WY1MWTvYZ5lIulo18j-4" target="A5WY1MWTvYZ5lIulo18j-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A5WY1MWTvYZ5lIulo18j-4" value="事务性和非事务性专项审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="870" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="A5WY1MWTvYZ5lIulo18j-4" value="&lt;span style=&quot;font-family: 微软简仿宋; font-size: 14px;&quot;&gt;后续管理事项&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="870" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5WY1MWTvYZ5lIulo18j-5" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="A5WY1MWTvYZ5lIulo18j-7" target="A5WY1MWTvYZ5lIulo18j-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1466,9 +1466,6 @@
         </mxCell>
         <mxCell id="A5WY1MWTvYZ5lIulo18j-29" value="提醒做贷后检查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1620" y="30" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-2" value="&lt;p style=&quot;font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软简仿宋; font-size: 14px;&quot;&gt;后续管理事项&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
