@@ -1452,7 +1452,7 @@
         <mxCell id="A5WY1MWTvYZ5lIulo18j-24" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="A5WY1MWTvYZ5lIulo18j-25" target="A5WY1MWTvYZ5lIulo18j-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A5WY1MWTvYZ5lIulo18j-25" value="当前日期&amp;gt;=上一次派发任务+60，且（起息日+60）&amp;lt;=(提前）到期日" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="A5WY1MWTvYZ5lIulo18j-25" value="当前日期&amp;gt;= ，且（起息日+60）&amp;lt;=(提前）到期日" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1518" y="160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A5WY1MWTvYZ5lIulo18j-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A5WY1MWTvYZ5lIulo18j-27" target="A5WY1MWTvYZ5lIulo18j-28" edge="1">
