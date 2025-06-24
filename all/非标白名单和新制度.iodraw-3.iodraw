@@ -1415,10 +1415,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-23" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-25" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-750" width="90" height="30" as="geometry" />
@@ -1446,6 +1446,9 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-30" value="&lt;p style=&quot;font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;变更抵押物、变更担保措施、资金监管计划、延迟还款计划、资金用途&lt;/span&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;性质&lt;/span&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;变更&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="-620" width="100" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-31" target="BlE_K6_LmjYBjGJI71Qp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-31" value="当前事务性专项管理流程" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1467,7 +1470,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-40" value="投资研究部经办人（新增）录入上会评审意见" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-240" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-41" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="990" y="-90" width="120" height="60" as="geometry" />
