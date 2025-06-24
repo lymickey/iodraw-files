@@ -1448,7 +1448,7 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-30" target="BlE_K6_LmjYBjGJI71Qp-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-44" value="选择其它事项" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlE_K6_LmjYBjGJI71Qp-38">
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-44" value="选择其它事项管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlE_K6_LmjYBjGJI71Qp-38">
           <mxGeometry x="0.3032" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
