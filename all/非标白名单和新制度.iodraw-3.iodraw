@@ -1421,7 +1421,7 @@
           <mxGeometry x="710" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-750" width="90" height="30" as="geometry" />
+          <mxGeometry x="1065" y="-770" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-29" target="BlE_K6_LmjYBjGJI71Qp-30">
           <mxGeometry relative="1" as="geometry" />
