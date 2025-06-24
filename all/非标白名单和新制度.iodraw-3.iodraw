@@ -1420,10 +1420,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-23" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-315" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-25" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-215" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-750" width="90" height="30" as="geometry" />
@@ -1459,10 +1459,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-40" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-315" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-41" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-215" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
