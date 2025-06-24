@@ -1418,51 +1418,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-13" value="分行？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-500" width="80" height="80" as="geometry" />
+          <mxGeometry x="714.5" y="-260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-15" target="BlE_K6_LmjYBjGJI71Qp-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-15" value="分行部门审批" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="854.5" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-17" target="BlE_K6_LmjYBjGJI71Qp-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="-400" as="targetPoint" />
+            <mxPoint x="1114.5" y="-160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="-350" />
+              <mxPoint x="1104.5" y="-110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-17" value="分行行长审批" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1065.5" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-19" target="BlE_K6_LmjYBjGJI71Qp-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-19" value="项目经理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-380" width="120" height="60" as="geometry" />
+          <mxGeometry x="694.5" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-21" target="BlE_K6_LmjYBjGJI71Qp-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-21" value="项目经理总经理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-285" width="120" height="60" as="geometry" />
+          <mxGeometry x="694.5" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-23" target="BlE_K6_LmjYBjGJI71Qp-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-23" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="694.5" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-25" target="BlE_K6_LmjYBjGJI71Qp-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-25" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="694.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-26" value="结束（删除严总）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="694.5" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-750" width="90" height="30" as="geometry" />
@@ -1474,7 +1474,7 @@
           <mxGeometry x="710" y="-620" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-30" value="&lt;p style=&quot;font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;变更抵押物、变更担保措施、资金监管计划、延迟还款计划、资金用途&lt;/span&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;性质&lt;/span&gt;&lt;span style=&quot;font-family: 微软简仿宋;&quot;&gt;变更&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-620" width="80" height="80" as="geometry" />
+          <mxGeometry x="890" y="-620" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
