@@ -1442,13 +1442,13 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-29" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;选择：&lt;span style=&quot;background-color: initial; font-family: 微软简仿宋;&quot;&gt;提前还款、定价变更、因国有企业人事变更需变更相关印鉴&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 微软简仿宋;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 微软简仿宋;&quot;&gt;用途性质未发生改变&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 微软简仿宋;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 微软简仿宋;&quot;&gt;资金用途变&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-620" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-30" target="BlE_K6_LmjYBjGJI71Qp-33">
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-34" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-30" target="BlE_K6_LmjYBjGJI71Qp-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-30" target="BlE_K6_LmjYBjGJI71Qp-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-44" value="选择其它事项管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="BlE_K6_LmjYBjGJI71Qp-38">
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-44" value="选择其它事项管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF0000;" vertex="1" connectable="0" parent="BlE_K6_LmjYBjGJI71Qp-38">
           <mxGeometry x="0.3032" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1478,7 +1478,7 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-37" target="BlE_K6_LmjYBjGJI71Qp-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="填写其它事项说明" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="填写其它事项说明" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-40" target="BlE_K6_LmjYBjGJI71Qp-41">
