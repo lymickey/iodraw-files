@@ -1465,6 +1465,9 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-33" value="&amp;nbsp;非事务性专项管理流程" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-37" target="BlE_K6_LmjYBjGJI71Qp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="填写事项说明" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1478,7 +1481,7 @@
           <mxGeometry x="990" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-45" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
