@@ -1194,7 +1194,7 @@
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-14" value="直接修改额度" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1224" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-19" value="同意，不操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="1" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-19" value="同意&lt;div&gt;不投票&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1410.2608695652175" y="-279.9965217391303" as="geometry">
             <mxPoint x="-242" y="260" as="offset" />
           </mxGeometry>
