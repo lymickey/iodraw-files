@@ -1075,7 +1075,7 @@
         <mxCell id="007zQYQhBzqco84b4l4x-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="007zQYQhBzqco84b4l4x-30" target="007zQYQhBzqco84b4l4x-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-58" value="不同意，&lt;div&gt;不操作&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="007zQYQhBzqco84b4l4x-32" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-58" value="不同意，不投票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="007zQYQhBzqco84b4l4x-32" vertex="1" connectable="0">
           <mxGeometry x="0.0152" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1089,7 +1089,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-61" value="同意,不投票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-60" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-61" value="同意，不投票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-60" vertex="1" connectable="0">
           <mxGeometry x="0.4633" y="4" relative="1" as="geometry">
             <mxPoint x="-364" y="-22" as="offset" />
           </mxGeometry>
