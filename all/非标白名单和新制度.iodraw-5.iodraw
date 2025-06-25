@@ -726,9 +726,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#db4848;" parent="bYf6wKlpSC7zH8Mq0JMu-2" vertex="1" connectable="0">
+        <mxCell id="bYf6wKlpSC7zH8Mq0JMu-3" value="制度：担保人和融资人不能都不入库，&lt;div&gt;必须至少有一个入库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#db4848;" parent="bYf6wKlpSC7zH8Mq0JMu-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3581" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-59" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UbfZ9EV8J17mY2bdcHEx-6" value="必须投票：担保人是否入&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;白名单&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
