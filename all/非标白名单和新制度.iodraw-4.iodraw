@@ -325,7 +325,7 @@
             <mxPoint x="-40" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF0vdzFtiF5Ralh_pnZK-8" value="实时查询白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vF0vdzFtiF5Ralh_pnZK-7" vertex="1" connectable="0">
+        <mxCell id="vF0vdzFtiF5Ralh_pnZK-8" value="实时查询白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="vF0vdzFtiF5Ralh_pnZK-7" vertex="1" connectable="0">
           <mxGeometry x="0.2266" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
