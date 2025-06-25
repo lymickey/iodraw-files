@@ -965,7 +965,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-88" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-87" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-88" value="同意，不操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-87" vertex="1" connectable="0">
           <mxGeometry x="-0.7619" y="1" relative="1" as="geometry">
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
