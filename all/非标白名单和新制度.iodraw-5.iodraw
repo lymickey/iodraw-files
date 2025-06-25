@@ -1179,7 +1179,7 @@
             <mxPoint x="1890" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-5" value="评委填写评审意见" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-5" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;直接修改额度&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1496" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7ab3Yurx0CLxKaW5cY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="YL7ab3Yurx0CLxKaW5cY-14" edge="1">
