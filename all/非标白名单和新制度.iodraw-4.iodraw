@@ -363,6 +363,14 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-15" value="ESG认证" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TRMmUEUEEY6RdX7kTFGn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-16" target="TRMmUEUEEY6RdX7kTFGn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRMmUEUEEY6RdX7kTFGn-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRMmUEUEEY6RdX7kTFGn-4">
+          <mxGeometry x="-0.4231" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-16" value="投票:&lt;div&gt;新项目、 白名单事宜&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="480" y="938" width="120" height="60" as="geometry" />
         </mxCell>
@@ -557,7 +565,7 @@
           <mxGeometry x="950" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TRMmUEUEEY6RdX7kTFGn-3" value="投票结果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1040" width="60" height="40" as="geometry" />
+          <mxGeometry x="510" y="1050" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
