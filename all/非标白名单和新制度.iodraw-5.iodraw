@@ -763,7 +763,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-39" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="007zQYQhBzqco84b4l4x-28" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-39" value="不同意，&lt;div&gt;不投票&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="007zQYQhBzqco84b4l4x-28" vertex="1" connectable="0">
           <mxGeometry x="0.2959" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
