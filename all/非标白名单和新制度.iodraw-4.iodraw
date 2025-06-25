@@ -556,8 +556,8 @@
         <mxCell id="vF0vdzFtiF5Ralh_pnZK-2" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TRMmUEUEEY6RdX7kTFGn-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1070" width="60" height="40" as="geometry" />
+        <mxCell id="TRMmUEUEEY6RdX7kTFGn-3" value="投票结果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1040" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
