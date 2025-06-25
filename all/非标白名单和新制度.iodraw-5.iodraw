@@ -1132,7 +1132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL7ab3Yurx0CLxKaW5cY-76" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-74" vertex="1" connectable="0">
+        <mxCell id="YL7ab3Yurx0CLxKaW5cY-76" value="同意，不操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="YL7ab3Yurx0CLxKaW5cY-74" vertex="1" connectable="0">
           <mxGeometry x="-0.3836" y="-2" relative="1" as="geometry">
             <mxPoint x="25" y="-2" as="offset" />
           </mxGeometry>
