@@ -462,7 +462,7 @@
             <mxPoint x="-40" y="1415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-26" value="实时同步白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="CcGHzi8Sqv2xlDCog5YD-21" vertex="1" connectable="0">
+        <mxCell id="CcGHzi8Sqv2xlDCog5YD-26" value="实时同步白名单&lt;div&gt;(出库、额度更新&lt;/div&gt;&lt;div&gt;和入库）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="CcGHzi8Sqv2xlDCog5YD-21" vertex="1" connectable="0">
           <mxGeometry x="-0.1515" y="-1" relative="1" as="geometry">
             <mxPoint x="-21" y="1" as="offset" />
           </mxGeometry>
