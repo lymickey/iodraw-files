@@ -366,16 +366,19 @@
         <mxCell id="8d0XvsDzvTX48WQU0yAq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8d0XvsDzvTX48WQU0yAq-16" target="8d0XvsDzvTX48WQU0yAq-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CcGHzi8Sqv2xlDCog5YD-28" value="投票结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="8d0XvsDzvTX48WQU0yAq-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.24" y="2" relative="1" as="geometry">
+        <mxCell id="TRMmUEUEEY6RdX7kTFGn-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8d0XvsDzvTX48WQU0yAq-19">
+          <mxGeometry x="-0.0263" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-16" value="投票:&lt;div&gt;新项目、 白名单事宜&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="480" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="938" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TRMmUEUEEY6RdX7kTFGn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d0XvsDzvTX48WQU0yAq-18" target="sZotvsRytkarSsWIDQ6R-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-18" value="上会审议结果录入" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1065" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8d0XvsDzvTX48WQU0yAq-38" value="需要改造系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="280" y="30" width="70" height="40" as="geometry" />
