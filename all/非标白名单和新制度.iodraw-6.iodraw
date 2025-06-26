@@ -1499,6 +1499,9 @@
         <mxCell id="exyQCRQ3uJkqvSljwFIj-32" value="分行行长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
