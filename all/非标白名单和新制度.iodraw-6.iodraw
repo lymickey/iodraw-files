@@ -1397,6 +1397,9 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1065" y="-770" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-37" target="exyQCRQ3uJkqvSljwFIj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="分行经办人/项目经理选择并填写需要申报的事项" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1471,6 +1474,9 @@
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="分行行长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-275" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
