@@ -1469,7 +1469,7 @@
         <mxCell id="exyQCRQ3uJkqvSljwFIj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exyQCRQ3uJkqvSljwFIj-17" target="exyQCRQ3uJkqvSljwFIj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="分行行长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="分行部门负责人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exyQCRQ3uJkqvSljwFIj-19" target="exyQCRQ3uJkqvSljwFIj-16">
@@ -1482,7 +1482,7 @@
           <mxGeometry x="1080" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-26" value="项目经理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-28" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="-180" width="120" height="60" as="geometry" />
