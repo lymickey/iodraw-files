@@ -1469,8 +1469,8 @@
         <mxCell id="exyQCRQ3uJkqvSljwFIj-16" value="分行部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-170" width="120" height="60" as="geometry" />
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="分行行长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
