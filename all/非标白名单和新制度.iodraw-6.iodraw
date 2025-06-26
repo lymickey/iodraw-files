@@ -1469,7 +1469,7 @@
         <mxCell id="exyQCRQ3uJkqvSljwFIj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exyQCRQ3uJkqvSljwFIj-16" target="exyQCRQ3uJkqvSljwFIj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="exyQCRQ3uJkqvSljwFIj-16" value="分行部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-16" value="分行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="-220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exyQCRQ3uJkqvSljwFIj-17" target="exyQCRQ3uJkqvSljwFIj-26">
