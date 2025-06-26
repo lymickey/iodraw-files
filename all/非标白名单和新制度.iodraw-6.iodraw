@@ -1397,7 +1397,7 @@
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1065" y="-770" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="选择并填写需要申报的事项" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
+        <mxCell id="BlE_K6_LmjYBjGJI71Qp-37" value="分行经办人/项目经理选择并填写需要申报的事项" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BlE_K6_LmjYBjGJI71Qp-45" target="BlE_K6_LmjYBjGJI71Qp-55" edge="1">
@@ -1467,10 +1467,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-16" value="分行部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-345" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-17" value="分行行长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-245" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
