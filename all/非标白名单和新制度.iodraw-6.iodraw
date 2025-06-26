@@ -1392,7 +1392,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-10" value="&lt;span style=&quot;font-family: 微软简仿宋; font-size: 14px;&quot;&gt;后续管理事项&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-27" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1065" y="-770" width="90" height="30" as="geometry" />
@@ -1442,10 +1442,10 @@
         <mxCell id="xdyjo2grtwSL5cyfxIkO-1" value="&lt;div&gt;1.变更担保措施&lt;/div&gt;&lt;div&gt;2.延迟还款计划&lt;/div&gt;&lt;div&gt;3.变更用途性质发生改变的资金用途&lt;/div&gt;&lt;div&gt;4.变更抵押物（材料）&lt;/div&gt;&lt;div&gt;5.变更资金监管计划&lt;/div&gt;&lt;div&gt;6.提前还款&lt;/div&gt;&lt;div&gt;7.用途性质未发生改变的资金用途变更&lt;/div&gt;&lt;div&gt;8.其它事项&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-490" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="exyQCRQ3uJkqvSljwFIj-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xdyjo2grtwSL5cyfxIkO-1">
+        <mxCell id="exyQCRQ3uJkqvSljwFIj-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1213.25" y="-375.5" as="sourcePoint" />
-            <mxPoint x="1267.75" y="-375.5" as="targetPoint" />
+            <mxPoint x="1207.13" y="-375.5" as="sourcePoint" />
+            <mxPoint x="1273.88" y="-375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
