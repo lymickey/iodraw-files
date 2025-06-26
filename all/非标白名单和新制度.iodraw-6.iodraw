@@ -1407,7 +1407,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-45" value="投资研究部经办人（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="-310" width="130" height="70" as="geometry" />
+          <mxGeometry x="1075" y="-90" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BlE_K6_LmjYBjGJI71Qp-55" target="BlE_K6_LmjYBjGJI71Qp-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1419,7 +1419,7 @@
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BlE_K6_LmjYBjGJI71Qp-55" target="BlE_K6_LmjYBjGJI71Qp-59" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1140" y="10" as="targetPoint" />
+            <mxPoint x="1140" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-63" value="事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="BlE_K6_LmjYBjGJI71Qp-62" vertex="1" connectable="0">
@@ -1428,19 +1428,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-55" value="事务还是非事务" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="-190" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BlE_K6_LmjYBjGJI71Qp-57" target="BlE_K6_LmjYBjGJI71Qp-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-57" value="记录上会结论" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlE_K6_LmjYBjGJI71Qp-59" target="exyQCRQ3uJkqvSljwFIj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BlE_K6_LmjYBjGJI71Qp-59" value="投资研究部总经理（新增）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="15" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xdyjo2grtwSL5cyfxIkO-1" value="&lt;div&gt;事项列表：&lt;/div&gt;&lt;div&gt;1.变更担保措施&lt;/div&gt;&lt;div&gt;2.延迟还款计划&lt;/div&gt;&lt;div&gt;3.变更用途性质发生改变的资金用途&lt;/div&gt;&lt;div&gt;4.变更抵押物（材料）&lt;/div&gt;&lt;div&gt;5.变更资金监管计划&lt;/div&gt;&lt;div&gt;6.提前还款&lt;/div&gt;&lt;div&gt;7.用途性质未发生改变的资金用途变更&lt;/div&gt;&lt;div&gt;8.其它事项&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-490" width="120" height="230" as="geometry" />
@@ -1458,13 +1458,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-8" value="同意、条件同意或者是事务型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="100" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-10" value="更新资产台账" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exyQCRQ3uJkqvSljwFIj-12" value="不能更新资产台账" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
